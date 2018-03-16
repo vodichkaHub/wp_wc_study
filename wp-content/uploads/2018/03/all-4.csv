@@ -1,0 +1,254 @@
+ID,Name,SKU,Type,Short description,Shipping class,Price,Shipping Price,Shipping counts for each unit (Yes/No),Max Quantity Per Order
+1,MainOfferFreeShippingTwinCream,EBTWCRMAINA,Twin,Twin - $19.95,Cream,1995,995,yes,0
+2,MainOfferFreeShippingTwinCamel,EBTWCMMAINA,Twin,Twin - $19.95,Camel,1995,995,yes,0
+3,MainOfferFreeShippingTwinBrown,EBTWBWMAINA,Twin,Twin - $19.95,Brown,1995,995,yes,0
+4,MainOfferFreeShippingTwinBlue,EBTWBLMAINA,Twin,Twin - $19.95,Blue,1995,995,yes,1
+5,MainOfferFreeShippingTwinBurgundy,EBTWBRMAINA,Twin,Twin - $19.95,Burgundy,1995,995,yes,0
+6,MainOfferFreeShippingTwinWhite,MaintwinWhite,Twin,Twin - $19.95,White,1995,995,yes,1
+7,MainOfferFreeShippingTwinLavender,MaintwinLav,Twin,Twin - $19.95,Lavender,1995,995,yes,1
+8,MainOfferFreeShippingTwinDarkGray,EBTWDKGRAY,Twin,Twin - $19.95,Dark Gray,1995,995,yes,1
+9,MainOfferFreeShippingTwinSageGreen,EBTWSGGREEN,Twin,Twin - $19.95,Sage Green,1995,995,yes,1
+10,MainOfferFreeShippingTwinSandShell,EBTWSDSHELL,Twin,Twin - $19.95,Sand Shell,1995,995,yes,1
+11,MainOfferFreeShippingTwinXLCream,MaintwinxlCream,Twin XL,Twin XL - $39.95,Cream,3995,995,yes,0
+12,MainOfferFreeShippingTwinXLCamel,MaintwinXLCamel,Twin XL,Twin XL - $39.95,Camel,3995,995,yes,0
+13,MainOfferFreeShippingTwinXLBrown,MaintwinXLBrown,Twin XL,Twin XL - $39.95,Brown,3995,995,yes,0
+14,MainOfferFreeShippingTwinXLBlue,MaintwinXLBlue,Twin XL,Twin XL - $39.95,Blue,3995,995,yes,1
+15,MainOfferFreeShippingTwinXLBurgundy,MaintwinXLBurgundy,Twin XL,Twin XL - $39.95,Burgundy,3995,995,yes,0
+16,MainOfferFreeShippingTwinXLWhite,MaintwinXLWhite,Twin XL,Twin XL - $39.95,White,3995,995,yes,1
+17,MainOfferFreeShippingTwinXLLavender,MaintwinXLLav,Twin XL,Twin XL - $39.95,Lavender,3995,995,yes,1
+18,MainOfferFreeShippingTwinXLDarkGray,MaintwinXLDKGRAY,Twin XL,Twin XL - $39.95,Dark Gray,3995,995,yes,1
+19,MainOfferFreeShippingTwinXLSageGreen,MaintwinXLSGGREEN,Twin XL,Twin XL - $39.95,Sage Green,3995,995,yes,1
+20,MainOfferFreeShippingTwinXLSandShell,MaintwinXLSDSHELL,Twin XL,Twin XL - $39.95,Sand Shell,3995,995,yes,1
+21,MainOfferFreeShippingFullCream,EBFLCRMAINB,Full,Full - $49.95,Cream,4995,995,yes,0
+22,MainOfferFreeShippingFullCamel,EBFLCMMAINB,Full,Full - $49.95,Camel,4995,995,yes,0
+23,MainOfferFreeShippingFullBrown,EBFLBWMAINB,Full,Full - $49.95,Brown,4995,995,yes,0
+24,MainOfferFreeShippingFullBlue,EBFLBLMAINB,Full,Full - $49.95,Blue,4995,995,yes,1
+25,MainOfferFreeShippingFullBurgundy,EBFLBRMAINB,Full,Full - $49.95,Burgundy,4995,995,yes,0
+26,MainOfferFreeShippingFullWhite,MainFullWhite,Full,Full - $49.95,White,4995,995,yes,1
+27,MainOfferFreeShippingFullLavender,MainFullLav,Full,Full - $49.95,Lavender,4995,995,yes,1
+28,MainOfferFreeShippingFullDarkGray,EBFLDKGRAYMAINB,Full,Full - $49.95,Dark Gray,4995,995,yes,0
+29,MainOfferFreeShippingFullSageGreen,MainFullSGGREEN,Full,Full - $49.95,Sage Green,4995,995,yes,0
+30,MainOfferFreeShippingFullSandShell,MainFullSDSHELL,Full,Full - $49.95,Sand Shell,4995,995,yes,1
+31,MainOfferFreeShippingQueenCream,EBQNCRMAINB,Queen,Queen - $59.95,Cream,5995,995,yes,0
+32,MainOfferFreeShippingQueenCamel,EBQNCMMAINB,Queen,Queen - $59.95,Camel,5995,995,yes,0
+33,MainOfferFreeShippingQueenBrown,EBQNBWMAINB,Queen,Queen - $59.95,Brown,5995,995,yes,0
+34,MainOfferFreeShippingQueenBlue,EBQNBLMAINB,Queen,Queen - $59.95,Blue,5995,995,yes,1
+35,MainOfferFreeShippingQueenBurgundy,EBQNBRMAINB,Queen,Queen - $59.95,Burgundy,5995,995,yes,0
+36,MainOfferFreeShippingQueenWhite,MainQueenWhite,Queen,Queen - $59.95,White,5995,995,yes,1
+37,MainOfferFreeShippingQueenLavender,MainQueenLav,Queen,Queen - $59.95,Lavender,5995,995,yes,0
+38,MainOfferFreeShippingQueenDarkGray,EBQNDKGRAYMAINB,Queen,Queen - $59.95,Dark Gray,5995,995,yes,1
+39,MainOfferFreeShippingQueenSageGreen,MainQueenSGGREEN,Queen,Queen - $59.95,Sage Green,5995,995,yes,1
+40,MainOfferFreeShippingQueenSandShell,MainQueenSDSHELL,Queen,Queen - $59.95,Sand Shell,5995,995,yes,1
+41,MainOfferFreeShippingKingCream,EBKGCRMAINB,King,King - $69.95,Cream,6995,995,yes,0
+42,MainOfferFreeShippingKingCamel,EBKGCMMAINB,King,King - $69.95,Camel,6995,995,yes,0
+43,MainOfferFreeShippingKingBrown,EBKGBWMAINB,King,King - $69.95,Brown,6995,995,yes,1
+44,MainOfferFreeShippingKingBlue,EBKGBLMAINB,King,King - $69.95,Blue,6995,995,yes,0
+45,MainOfferFreeShippingKingBurgundy,EBKGBRMAINB,King,King - $69.95,Burgundy,6995,995,yes,1
+46,MainOfferFreeShippingKingWhite,MainKingWhite,King,King - $69.95,White,6995,995,yes,0
+47,MainOfferFreeShippingKingLavender,MainKingLav,King,King - $69.95,Lavender,6995,995,yes,1
+48,MainOfferFreeShippingKingDarkGray,EBKGDKGRAYMAINB,King,King - $69.95,Dark Gray,6995,995,yes,1
+49,MainOfferFreeShippingKingSageGreen,MainKingSGGREEN,King,King - $69.95,Sage Green,6995,995,yes,0
+50,MainOfferFreeShippingKingSandShell,MainKingSDSHELL,King,King - $69.95,Sand Shell,6995,995,yes,0
+51,MainOfferFreeShippingCaCream,EBCACRMAINB,California King,California King - $79.95,Cream,7995,995,yes,0
+52,MainOfferFreeShippingCaCamel,EBCACMMAINB,California King,California King - $79.95,Camel,7995,995,yes,0
+53,MainOfferFreeShippingCaBrown,EBCABWMAINB,California King,California King - $79.95,Brown,7995,995,yes,0
+54,MainOfferFreeShippingCaBlue,EBCABLMAINB,California King,California King - $79.95,Blue,7995,995,yes,0
+55,MainOfferFreeShippingCaBurgundy,EBCABRMAINA,California King,California King - $79.95,Burgundy,7995,995,yes,0
+56,MainOfferFreeShippingCaWhite,MainCAWhite,California King,California King - $79.95,White,7995,995,yes,0
+57,MainOfferFreeShippingCaLavender,MainCALav,California King,California King - $79.95,Lavender,7995,995,yes,1
+58,MainOfferFreeShippingCaDarkGray,EBCADKGRAYMAINA,California King,California King - $79.95,Dark Gray,7995,995,yes,1
+59,MainOfferFreeShippingCaSageGreen,MainCASGGREEN,California King,California King - $79.95,Sage Green,7995,995,yes,1
+60,MainOfferFreeShippingCaSandShell,MainCASDSHELL,California King,California King - $79.95,Sand Shell,7995,995,yes,1
+61,BlanketTwin/TwinXLPinkLeopard,TwinBlankPL,Twin/Twin XL,Twin/Twin XL - $79.95,Pink Leopard Blanket,7995,995,yes,1
+62,BlanketFullPinkLeopard,FullBlankPL,Full,Full - $79.95,Leopard,7995,995,yes,1
+63,BlanketQueenPinkLeopard,QueenBlankL,Queen,Queen - $79.95,Leopard,7995,995,yes,0
+64,BlanketKingPinkLeopard,KingBlankL,King,King - $89.95,Leopard,8995,995,yes,1
+65,BlanketCAKingPinkLeopard,CABlankL,California King,California King - $89.95,Leopard,8995,995,yes,0
+66,BlanketTwin/TwinXLSandShell,TwinBlankSand,Twin/Twin XL,Twin/Twin XL - $79.95,Sand,7995,995,yes,0
+67,BlanketFullSandShell,FullBlankSand,Full,Full - $79.95,Sand,7995,995,yes,1
+68,BlanketQueenSandShell,QueenBlankSand,Queen,Queen - $79.95,Sand,7995,995,yes,1
+69,BlanketKingSandShell,KingBlankSand,King,King - $89.95,Sand,8995,995,yes,1
+70,BlanketCAKingSandShell,CABlankSand,California King,California King - $89.95,Sand,8995,995,yes,1
+71,BlanketTwin/TwinXLBlue,TwinBlankBlue,Twin/Twin XL,Twin/Twin XL - $79.95,Blue,7995,995,yes,0
+72,BlanketFullBlue,FullBlankBlue,Full,Full - $79.95,Blue,7995,995,yes,1
+73,BlanketQueenBlue,QueenBlankBlue,Queen,Queen - $79.95,Blue,7995,995,yes,1
+74,BlanketKingBlue,KingBlankBlue,King,King - $89.95,Blue,8995,995,yes,1
+75,BlanketCAKingBlue,CABlankBlue,California King,California King - $89.95,Blue,8995,995,yes,0
+76,MattressTopperTwin/TwinXL,MATTOP-TWIN,Twin/Twin XL,Twin/Twin XL - $89.95,White,8995,0,yes,1
+77,MattressTopperFull,MATTOP-FULL,Full,Full - $89.95,White,8995,0,yes,1
+78,MattressTopperQueen,MATTOP-QUEEN,Queen,Queen - $89.95,White,8995,0,yes,1
+79,MattressTopperKing,MATTOP-KING,King,King - $89.95,White,8995,0,yes,1
+80,Surcharge,SURCHARGE,,Shipping Surcharge,,0,1995,yes,1
+81,MainOfferFreeShippingTwinCreamDISC,EBTWCRMAINA,Twin,Twin - $9.97,Cream,997,995,yes,10
+82,MainOfferFreeShippingTwinCamelDISC,EBTWCMMAINA,Twin,Twin - $9.97,Camel,997,995,yes,10
+83,MainOfferFreeShippingTwinBrownDISC,EBTWBWMAINA,Twin,Twin - $9.97,Brown,997,995,yes,10
+84,MainOfferFreeShippingTwinBlueDISC,EBTWBLMAINA,Twin,Twin - $9.97,Blue,997,995,yes,10
+85,MainOfferFreeShippingTwinBurgundyDISC,EBTWBRMAINA,Twin,Twin - $9.97,Burgundy,997,995,yes,10
+86,MainOfferFreeShippingTwinWhiteDISC,MaintwinWhite,Twin,Twin - $9.97,White,997,995,yes,10
+87,MainOfferFreeShippingTwinLavenderDISC,MaintwinLav,Twin,Twin - $9.97,Lavender,997,995,yes,10
+88,MainOfferFreeShippingTwinDarkGrayDISC,EBTWDKGRAY,Twin,Twin - $9.97,Dark Gray,997,995,yes,10
+89,MainOfferFreeShippingTwinSageGreenDISC,EBTWSGGREEN,Twin,Twin - $9.97,Sage Green,997,995,yes,10
+90,MainOfferFreeShippingTwinSandShellDISC,EBTWSDSHELL,Twin,Twin - $9.97,Sand Shell,997,995,yes,10
+91,MainOfferFreeShippingTwinXLCreamDISC,MaintwinxlCream,Twin XL,Twin XL - $19.97,Cream,1997,995,yes,10
+92,MainOfferFreeShippingTwinXLCamelDISC,MaintwinXLCamel,Twin XL,Twin XL - $19.97,Camel,1997,995,yes,10
+93,MainOfferFreeShippingTwinXLBrownDISC,MaintwinXLBrown,Twin XL,Twin XL - $19.97,Brown,1997,995,yes,10
+94,MainOfferFreeShippingTwinXLBlueDISC,MaintwinXLBlue,Twin XL,Twin XL - $19.97,Blue,1997,995,yes,10
+95,MainOfferFreeShippingTwinXLBurgundyDISC,MaintwinXLBurgundy,Twin XL,Twin XL - $19.97,Burgundy,1997,995,yes,10
+96,MainOfferFreeShippingTwinXLWhiteDISC,MaintwinXLWhite,Twin XL,Twin XL - $19.97,White,1997,995,yes,10
+97,MainOfferFreeShippingTwinXLLavenderDISC,MaintwinXLLav,Twin XL,Twin XL - $19.97,Lavender,1997,995,yes,10
+98,MainOfferFreeShippingTwinXLDarkGrayDISC,MaintwinXLDKGRAY,Twin XL,Twin XL - $19.97,Dark Gray,1997,995,yes,10
+99,MainOfferFreeShippingTwinXLSageGreenDISC,MaintwinXLSGGREEN,Twin XL,Twin XL - $19.97,Sage Green,1997,995,yes,10
+100,MainOfferFreeShippingTwinXLSandShellDISC,MaintwinXLSDSHELL,Twin XL,Twin XL - $19.97,Sand Shell,1997,995,yes,10
+101,MainOfferFreeShippingFullCreamDISC,EBFLCRMAINB,Full,Full - $24.97,Cream,2497,995,yes,10
+102,MainOfferFreeShippingFullCamelDISC,EBFLCMMAINB,Full,Full - $24.97,Camel,2497,995,yes,10
+103,MainOfferFreeShippingFullBrownDISC,EBFLBWMAINB,Full,Full - $24.97,Brown,2497,995,yes,10
+104,MainOfferFreeShippingFullBlueDISC,EBFLBLMAINB,Full,Full - $24.97,Blue,2497,995,yes,10
+105,MainOfferFreeShippingFullBurgundyDISC,EBFLBRMAINB,Full,Full - $24.97,Burgundy,2497,995,yes,10
+106,MainOfferFreeShippingFullWhiteDISC,MainFullWhite,Full,Full - $24.97,White,2497,995,yes,10
+107,MainOfferFreeShippingFullLavenderDISC,MainFullLav,Full,Full - $24.97,Lavender,2497,995,yes,10
+108,MainOfferFreeShippingFullDarkGrayDISC,EBFLDKGRAYMAINB,Full,Full - $24.97,Dark Gray,2497,995,yes,10
+109,MainOfferFreeShippingFullSageGreenDISC,MainFullSGGREEN,Full,Full - $24.97,Sage Green,2497,995,yes,10
+110,MainOfferFreeShippingFullSandShellDISC,MainFullSDSHELL,Full,Full - $24.97,Sand Shell,2497,995,yes,10
+111,MainOfferFreeShippingQueenCreamDISC,EBQNCRMAINB,Queen,Queen - $29.97,Cream,2997,995,yes,10
+112,MainOfferFreeShippingQueenCamelDISC,EBQNCMMAINB,Queen,Queen - $29.97,Camel,2997,995,yes,10
+113,MainOfferFreeShippingQueenBrownDISC,EBQNBWMAINB,Queen,Queen - $29.97,Brown,2997,995,yes,10
+114,MainOfferFreeShippingQueenBlueDISC,EBQNBLMAINB,Queen,Queen - $29.97,Blue,2997,995,yes,10
+115,MainOfferFreeShippingQueenBurgundyDISC,EBQNBRMAINB,Queen,Queen - $29.97,Burgundy,2997,995,yes,10
+116,MainOfferFreeShippingQueenWhiteDISC,MainQueenWhite,Queen,Queen - $29.97,White,2997,995,yes,10
+117,MainOfferFreeShippingQueenLavenderDISC,MainQueenLav,Queen,Queen - $29.97,Lavender,2997,995,yes,10
+118,MainOfferFreeShippingQueenDarkGrayDISC,EBQNDKGRAYMAINB,Queen,Queen - $29.97,Dark Gray,2997,995,yes,10
+119,MainOfferFreeShippingQueenSageGreenDISC,MainQueenSGGREEN,Queen,Queen - $29.97,Sage Green,2997,995,yes,10
+120,MainOfferFreeShippingQueenSandShellDISC,MainQueenSDSHELL,Queen,Queen - $29.97,Sand Shell,2997,995,yes,10
+121,MainOfferFreeShippingKingCreamDISC,EBKGCRMAINB,King,King - $34.97,Cream,3497,995,yes,10
+122,MainOfferFreeShippingKingCamelDISC,EBKGCMMAINB,King,King - $34.97,Camel,3497,995,yes,10
+123,MainOfferFreeShippingKingBrownDISC,EBKGBWMAINB,King,King - $34.97,Brown,3497,995,yes,10
+124,MainOfferFreeShippingKingBlueDISC,EBKGBLMAINB,King,King - $34.97,Blue,3497,995,yes,10
+125,MainOfferFreeShippingKingBurgundyDISC,EBKGBRMAINB,King,King - $34.97,Burgundy,3497,995,yes,10
+126,MainOfferFreeShippingKingWhiteDISC,MainKingWhite,King,King - $34.97,White,3497,995,yes,10
+127,MainOfferFreeShippingKingLavenderDISC,MainKingLav,King,King - $34.97,Lavender,3497,995,yes,10
+128,MainOfferFreeShippingKingDarkGrayDISC,EBKGDKGRAYMAINB,King,King - $34.97,Dark Gray,3497,995,yes,10
+129,MainOfferFreeShippingKingSageGreenDISC,MainKingSGGREEN,King,King - $34.97,Sage Green,3497,995,yes,10
+130,MainOfferFreeShippingKingSandShellDISC,MainKingSDSHELL,King,King - $34.97,Sand Shell,3497,995,yes,10
+131,MainOfferFreeShippingCaCreamDISC,EBCACRMAINB,California King,California King - $39.97,Cream,3997,995,yes,10
+132,MainOfferFreeShippingCaCamelDISC,EBCACMMAINB,California King,California King - $39.97,Camel,3997,995,yes,10
+133,MainOfferFreeShippingCaBrownDISC,EBCABWMAINB,California King,California King - $39.97,Brown,3997,995,yes,10
+134,MainOfferFreeShippingCaBlueDISC,EBCABLMAINB,California King,California King - $39.97,Blue,3997,995,yes,10
+135,MainOfferFreeShippingCaBurgundyDISC,EBCABRMAINA,California King,California King - $39.97,Burgundy,3997,995,yes,10
+136,MainOfferFreeShippingCaWhiteDISC,MainCAWhite,California King,California King - $39.97,White,3997,995,yes,10
+137,MainOfferFreeShippingCaLavenderDISC,MainCALav,California King,California King - $39.97,Lavender,3997,995,yes,10
+138,MainOfferFreeShippingCaDarkGrayDISC,EBCADKGRAYMAINA,California King,California King - $39.97,Dark Gray,3997,995,yes,10
+139,MainOfferFreeShippingCaSageGreenDISC,MainCASGGREEN,California King,California King - $39.97,Sage Green,3997,995,yes,10
+140,MainOfferFreeShippingCaSandShellDISC,MainCASDSHELL,California King,California King - $39.97,Sand Shell,3997,995,yes,10
+141,BlanketTwin/TwinXLPinkLeopardDISC,TwinBlankPL,Twin/Twin XL,Twin/Twin XL - $39.97,Pink Leopard Blanket,3997,995,yes,10
+142,BlanketFullPinkLeopardDISC,FullBlankPL,Full,Full - $39.97,Leopard,3997,995,yes,10
+143,BlanketQueenPinkLeopardDISC,QueenBlankL,Queen,Queen - $39.97,Leopard,3997,995,yes,10
+144,BlanketKingPinkLeopardDISC,KingBlankL,King,King - $44.97,Leopard,4497,995,yes,10
+145,BlanketCAKingPinkLeopardDISC,CABlankL,California King,California King - $44.97,Leopard,4497,995,yes,10
+146,BlanketTwin/TwinXLSandShellDISC,TwinBlankSand,Twin/Twin XL,Twin/Twin XL - $39.97,Sand,3997,995,yes,10
+147,BlanketFullSandShellDISC,FullBlankSand,Full,Full - $39.97,Sand,3997,995,yes,10
+148,BlanketQueenSandShellDISC,QueenBlankSand,Queen,Queen - $39.97,Sand,3997,995,yes,10
+149,BlanketKingSandShellDISC,KingBlankSand,King,King - $44.97,Sand,4497,995,yes,10
+150,BlanketCAKingSandShellDISC,CABlankSand,California King,California King - $44.97,Sand,4497,995,yes,10
+151,BlanketTwin/TwinXLBlueDISC,TwinBlankBlue,Twin/Twin XL,Twin/Twin XL - $39.97,Blue,3997,995,yes,10
+152,BlanketFullBlueDISC,FullBlankBlue,Full,Full - $39.97,Blue,3997,995,yes,10
+153,BlanketQueenBlueDISC,QueenBlankBlue,Queen,Queen - $39.97,Blue,3997,995,yes,10
+154,BlanketKingBlueDISC,KingBlankBlue,King,King - $44.97,Blue,4497,995,yes,10
+155,BlanketCAKingBlueDISC,CABlankBlue,California King,California King - $44.97,Blue,4497,995,yes,10
+156,ChamberPillowQueenMD,CPQMMAIN,Standard/Queen - Medium,Standard/Queen - Medium - $89.95,Pillow,$ 89.95,$ 9.95,yes,10
+157,ChamberPillowKingMD,CPKMMAIN,King - Medium,King - Medium - $109.95,Pillow,$ 109.95,$ 9.95,yes,10
+158,ChamberPillowQueenFRM,CPQFMAIN,Standard/Queen - Firm,Standard/Queen - Firm - $89.95,Pillow,$ 89.95,$ 9.95,yes,0
+159,ChamberPillowKingFRM,CPKFMAIN,King - Firm,King - Firm - $109.95,Pillow,$ 109.95,$ 9.95,yes,10
+160,PillowProtectorQueen,PPQMAIN,Standard/Queen,Standard/Queen - $24.95,Protector,$ 24.95,$ 9.95,yes,10
+161,PillowProtectorKing,PPKMAIN,King,King - $34.95,Protector,$ 34.95,$ 9.95,yes,10
+162,PillowCaseQueen,PCQMAIN,Standard/Queen,Standard/Queen - $24.95,Case,$ 24.95,$ 9.95,yes,10
+163,ThrowPillowStandard,TPSMAIN,"Standard/20"" x 26""","Standard/20"" x 26"" - $29.95",Pillow,$ 29.95,$ 9.95,yes,10
+164,ThrowPillowQueen,TPQMAIN,"Queen/20"" x 30""","Queen/20"" x 30"" - $34.95",Pillow,$ 34.95,$ 9.95,yes,10
+165,ThrowPillowKing,TPKMAIN,"King/20"" x 36""","King/20"" x 36"" - $39.95",Pillow,$ 39.95,$ 9.95,yes,10
+166,ChamberPillowQueenMDDISC,CPQMMAIN,Standard/Queen - Medium,Standard/Queen - Medium - $44.97,Pillow,$ 44.97,$ 9.95,yes,10
+167,ChamberPillowKingMDDISC,CPKMMAIN,King - Medium,King - Medium - $54.97,Pillow,$ 54.97,$ 9.95,yes,10
+168,ChamberPillowQueenFRMDISC,CPQFMMAIN,Standard/Queen - Firm,Standard/Queen - Firm - $44.97,Pillow,$ 44.97,$ 9.95,yes,10
+169,ChamberPillowKingFRMDISC,CPQFMAIN,King - Firm,King - Firm - $54.97,Pillow,$ 54.97,$ 9.95,yes,10
+170,PillowProtectorQueenDISC,PPQMAIN,Standard/Queen,Standard/Queen - $12.47,Protector,$ 12.47,$ 9.95,yes,10
+171,PillowProtectorKingDISC,PPKMAIN,King,King - $17.47,Protector,$ 17.47,$ 9.95,yes,10
+172,PillowCaseQueenDISC,PCQMAIN,Standard/Queen,Standard/Queen - $12.47,Case,$ 12.47,$ 9.95,yes,10
+173,ThrowPillowStandardDISC,TPSMAIN,"Standard/20"" x 26""","Standard/20"" x 26"" - $14.97",Pillow,$ 14.97,$ 9.95,yes,10
+174,ThrowPillowQueenDISC,TPQMAIN,"Queen/20"" x 30""","Queen/20"" x 30"" - $17.47",Pillow,$ 17.47,$ 9.95,yes,10
+175,ThrowPillowKingDISC,TPKMAIN,"King/20"" x 36""","King/20"" x 36"" - $19.47",Pillow,$ 19.97,$ 9.95,yes,10
+176,MainOfferTwinWhite,EGYTWINWHITE,Twin,Twin - $124.95,White,$ 124.95,995,yes,1
+177,MainOfferTwinXLWhite,EGYTWINXLWHITE,Twin XL,TwinXL - $129.95,White,$ 129.95,995,yes,0
+178,MainOfferKingWhite,EGYKNGWHITE,King,King - $179.95,White,$ 179.95,995,yes,1
+179,MainOfferCaliKingWhite,EGYCALKNGWHITE,CA King,CA King - $209.95,White,$ 209.95,995,yes,1
+180,MainOfferSltCalWhite,EGYSLTCALWHITE,Split California,Split California - $209.95,White,$ 209.95,995,yes,1
+181,MainOfferSltKingWhite,EGYSLTKNGWHITE,Split King,Split King - $209.95,White,$ 209.95,995,yes,1
+182,MainOfferFullWhite,EGYFULLWHITE,Full,Full - $134.95,White,$ 134.95,995,yes,0
+183,MainOfferQueenWhite,EGYQNWHITE,Queen,Queen - $159.95,White,$ 159.95,995,yes,1
+184,MainOffeTwinSandshell,EGYTWINSANDSHELL,Twin,Twin - $124.95,Sandshell,$ 124.95,995,yes,1
+185,MainOfferTwinXLSandshell,EGYTWINXLSANDSHELL,Twin XL,TwinXL - $129.95,Sandshell,$ 129.95,995,yes,0
+186,MainOfferFullSandshell,EGYFULLSANDSHELL,Full,Full - $134.95,Sandshell,$ 134.95,995,yes,1
+187,MainOfferQueenSandshell,EGYQNSANDSHELL,Queen,Queen - $159.95,Sandshell,$ 159.95,995,yes,1
+188,MainOfferKingSandshell,EGYKNGSANDSHELL,King,King - $179.95,Sandshell,$ 179.95,995,yes,1
+189,MainOfferCaliKingSandshell,EGYCALKNGSANDSHELL,CA King,CA King - $209.95,Sandshell,$ 209.95,995,yes,1
+190,MainOfferSltCalSandshell,EGYSLTCALSANDSHELL,Split California,Split California - $209.95,Sandshell,$ 209.95,995,yes,1
+191,MainOfferSltKingSandshell,EGYSLTKNGSANDSHELL,Split King,Split King - $209.95,Sandshell,$ 209.95,995,yes,1
+192,MainOfferTwinILLBlue,EGYTWINILLBLUE,Twin,Twin - $124.95,Illusion Blue,$ 124.95,995,yes,1
+193,MainOfferTwinXLILLBlue,EGYTWINXLILLBLUE,Twin XL,TwinXL - $129.95,Illusion Blue,$ 129.95,995,yes,1
+194,MainOfferFullILLBlue,EGYFULLILLBLUE,Full,Full - $134.95,Illusion Blue,$ 134.95,995,yes,1
+195,MainOfferQueenILLBlue,EGYQNILLBLUE,Queen,Queen - $159.95,Illusion Blue,$ 159.95,995,yes,1
+196,MainOfferKingILLBlue,EGYKNGILLBLUE,King,King - $179.95,Illusion Blue,$ 179.95,995,yes,1
+197,MainOfferCaliKingILLBlue,EGYCALKNGILLBLUE,CA King,CA King - $209.95,Illusion Blue,$ 209.95,995,yes,1
+198,MainOfferSltCaLILLBlue,EGYSLTCALILLBLUE,Split California,Split California - $209.95,Illusion Blue,$ 209.95,995,yes,1
+199,MainOfferSltKingILLBlue,EGYSLTKNGILLBLUE,Split King,Split King - $209.95,Illusion Blue,$ 209.95,995,yes,1
+200,MainOfferTwinWhiteDISC,EGYTWINWHITE,Twin,Twin - $62.47,White,$ 62.47,995,yes,10
+201,MainOfferTwinXLWhiteDISC,EGYTWINXLWHITE,Twin XL,TwinXL - $64.97,White,$ 64.97,995,yes,10
+202,MainOfferFullWhiteDISC,EGYFULLWHITE,Full,Full - $67.47,White,$ 67.47,995,yes,10
+203,MainOfferQueenWhiteDISC,EGYQNWHITE,Queen,Queen - $79.97,White,$ 79.97,995,yes,10
+204,MainOfferKingWhiteDISC,EGYKNGWHITE,King,King - $89.97,White,$ 89.97,995,yes,10
+205,MainOfferCaliKingWhiteDISC,EGYCALKNGWHITE,CA King,CA King - $104.97,White,$ 104.97,995,yes,10
+206,MainOfferSltCalWhiteDISC,EGYSLTCALWHITE,Split California,Split California - $104.97,White,$ 104.97,995,yes,10
+207,MainOfferSltKingWhiteDISC,EGYSLTKNGWHITE,Split King,Split King - $104.97,White,$ 104.97,995,yes,10
+208,MainOfferFullSandshellDISC,EGYFULLSANDSHELL,Full,Full - $67.47,Sandshell,$ 67.47,995,yes,10
+209,MainOfferQueenSandshellDISC,EGYQNSANDSHELL,Queen,Queen - $79.97,Sandshell,$ 79.97,995,yes,10
+210,MainOfferKingSandshellDISC,EGYKNGSANDSHELL,King,King - $89.97,Sandshell,$ 89.97,995,yes,10
+211,MainOfferCaliKingSandshellDISC,EGYCALKNGSANDSHELL,CA King,CA King - $104.97,Sandshell,$ 104.97,995,yes,10
+212,MainOfferSltCalSandshellDISC,EGYSLTCALSANDSHELL,Split California,Split California - $104.97,Sandshell,$ 104.97,995,yes,10
+213,MainOfferSltKingSandshellDISC,EGYSLTKNGSANDSHELL,Split King,Split King - $104.97,Sandshell,$ 104.97,995,yes,10
+214,MainOfferTwinSandshellDISC,EGYTWINSANDSHELL,Twin,Twin - $62.47,Sandshell,$ 62.47,995,yes,10
+215,MainOfferTwinXLSandshellDISC,EGYTWINXLSANDSHELL,Twin XL,TwinXL - $64.97,Sandshell,$ 64.97,995,yes,10
+216,MainOfferFuLLILLBlueDISC,EGYFULLILLBLUE,Full,Full - $67.47,Illusion Blue,$ 67.47,995,yes,10
+217,MainOfferQueenILLBlueDISC,EGYQNILLBLUE,Queen,Queen - $79.97,Illusion Blue,$ 79.97,995,yes,10
+218,MainOfferKingILLBlueDISC,EGYKNGILLBLUE,King,King - $89.97,Illusion Blue,$ 89.97,995,yes,10
+219,MainOfferCaliKingILLBlueDISC,EGYCALKNGILLBLUE,CA King,CA King - $104.97,Illusion Blue,$ 104.97,995,yes,10
+220,MainOfferSltCaLILLBlueDISC,EGYSLTCALILLBLUE,Split California,Split California - $104.97,Illusion Blue,$ 104.97,995,yes,10
+221,MainOfferSltKingILLBlueDISC,EGYSLTKNGILLBLUE,Split King,Split King - $104.97,Illusion Blue,$ 104.97,995,yes,10
+222,MainOfferTwinILLBlueDISC,EGYTWINILLBLUE,Twin,Twin - $62.47,Illusion Blue,$ 62.47,995,yes,10
+223,MainOfferTwinXLILLBlueDISC,EGYTWINXLILLBLUE,Twin XL,TwinXL - $64.97,Illusion Blue,$ 64.97,995,yes,10
+224,BlanketTwin/TwinXLDarkGray,TWINBLANKDKGRAY,Twin/Twin XL,Twin/TwinXL - $79.95,Dark Gray,$ 89.95,995,yes,1
+225,BlanketFullDarkGray,FULLBLANKDKGRAY,Full,Full - $79.95,Dark Gray,$ 89.95,995,yes,1
+226,BlanketQueenDarkGray,QUEENBLANKDKGRAY,Queen,Queen - $79.95,Dark Gray,$ 89.95,995,yes,1
+227,BlanketKingDarkGray,KINGBLANKDKGRAY,King,King - $89.95,Dark Gray,$ 89.95,995,yes,0
+228,BlanketCAKingDarkGray,CABLANKDKGRAY,CA King,CA King - $89.95,Dark Gray,$ 89.95,995,yes,0
+229,BlanketTwin/TwinXLDarkGrayDISC,TWINBLANKDKGRAY,Twin/Twin XL,Twin/TwinXL - $35.97,Dark Gray,$ 35.97,995,yes,10
+230,BlanketFullDarkGraydDISC,FULLBLANKDKGRAY,Full,Full - $35.97,Dark Gray,$ 35.97,995,yes,10
+231,BlanketQueenDarkGrayDISC,QUEENBLANKDKGRAY,Queen,Queen - $35.97,Dark Gray,$ 35.97,995,yes,10
+232,BlanketKingDarkGrayDISC,KINGBLANKDKGRAY,King,King - $44.97,Dark Gray,$ 44.97,995,yes,10
+233,BlanketCAKingDarkGrayDISC,CABLANKDKGRAY,CA King,CA King -$44.97,Dark Gray,$ 44.97,995,yes,10
+234,BlanketTwin/TwinXLGardenia,TWINBLANKGARDENIA,Twin/Twin XL,Twin/TwinXL - $79.95,Gardenia,$ 79.95,995,yes,1
+235,BlanketFullGardenia,FULLBLANKGARDENIA,Full,Full - $79.95,Gardenia,$ 79.95,995,yes,1
+236,BlanketQueenGardenia,QUEENBLANKGARDENIA,Queen,Queen - $79.95,Gardenia,$ 79.95,995,yes,1
+237,BlanketKingGardenia,KINGBLANKGARDENIA,King,King - $89.95,Gardenia,$ 89.95,995,yes,0
+238,BlanketCAKingGardenia,CABLANKGARDENIA,CA King,CA King - $89.95,Gardenia,$ 89.95,995,yes,1
+239,BlanketTwin/TwinXLGardeniaDISC,TWINBLANKGARDENIA,Twin/Twin XL,Twin/TwinXL - $35.97,Gardenia,$ 35.97,995,yes,10
+240,BlanketFullGardeniaDISC,FULLBLANKGARDENIA,Full,Full - $35.97,Gardenia,$ 35.97,995,yes,10
+241,BlanketQueenGardeniaDISC,QUEENBLANKGARDENIA,Queen,Queen - $35.97,Gardenia,$ 35.97,995,yes,10
+242,BlanketKingGardeniaDISC,KINGBLANKGARDENIA,King,King - $44.97,Gardenia,$ 44.97,995,yes,10
+243,BlanketCAKingGardeniaDISC,CABLANKGARDENIA,CA King,CA King -$44.97,Gardenia,$ 44.97,995,yes,10
+244,BlanketTwin/TwinXLSageGreen,TWINBLANKSAGEGREEN,Twin/Twin XL,Twin/TwinXL - $79.95,Sage Green,$ 79.95,995,yes,1
+245,BlanketFullSageGreen,FULLBLANKSAGEGREEN,Full,Full - $79.95,Sage Green,$ 79.95,995,yes,1
+246,BlanketQueenSageGreen,QUEENBLANKSAGEGREEN,Queen,Queen - $79.95,Sage Green,$ 79.95,995,yes,1
+247,BlanketKingSageGreen,KINGBLANKSAGEGREEN,King,King - $89.95,Sage Green,$ 89.95,995,yes,1
+248,BlanketCAKingSageGreen,CABLANKSAGEGREEN,CA King,CA King - $89.95,Sage Green,$ 89.95,995,yes,1
+249,BlanketTwin/TwinXLSageGreenDISC,TWINBLANKSAGEGREEN,Twin/Twin XL,Twin/TwinXL - $35.97,Sage Green,$ 35.97,995,yes,10
+250,BlanketFullSageGreenDISC,FULLBLANKSAGEGREEN,Full,Full - $35.97,Sage Green,$ 35.97,995,yes,10
+251,BlanketQueenSageGreenDISC,QUEENBLANKSAGEGREEN,Queen,Queen - $35.97,Sage Green,$ 35.97,995,yes,10
+252,BlanketKingSageGreenDISC,KINGBLANKSAGEGREEN,King,King - $44.97,Sage Green,$ 44.97,995,yes,10
+253,BlanketCAKingSageGreenDISC,CABLANKSAGEGREEN,CA King,CA King -$44.97,Sage Green,$ 44.97,995,yes,10

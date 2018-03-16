@@ -1,0 +1,3283 @@
+2018-03-15T13:18:21+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:21+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:21+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:21+00:00 DEBUG ---
+2018-03-15T13:18:21+00:00 DEBUG Processing products.
+2018-03-15T13:18:21+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinCream
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 1.
+2018-03-15T13:18:21+00:00 DEBUG > Finished importing post ID 1.
+2018-03-15T13:18:21+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinCamel
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 2.
+2018-03-15T13:18:21+00:00 DEBUG > Finished importing post ID 2.
+2018-03-15T13:18:21+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinBrown
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 3.
+2018-03-15T13:18:21+00:00 DEBUG > Finished importing post ID 3.
+2018-03-15T13:18:21+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinBlue
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 4.
+2018-03-15T13:18:21+00:00 DEBUG > Finished importing post ID 4.
+2018-03-15T13:18:21+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinBurgundy
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 5.
+2018-03-15T13:18:21+00:00 DEBUG > Finished importing post ID 5.
+2018-03-15T13:18:21+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinWhite
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 6.
+2018-03-15T13:18:21+00:00 DEBUG > Finished importing post ID 6.
+2018-03-15T13:18:21+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:21+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:21+00:00 DEBUG > Inserting MainOfferFreeShippingTwinLavender
+2018-03-15T13:18:21+00:00 DEBUG > Inserted - post ID is 7.
+2018-03-15T13:18:22+00:00 DEBUG > Finished importing post ID 7.
+2018-03-15T13:18:22+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:22+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:22+00:00 DEBUG > Inserting MainOfferFreeShippingTwinDarkGray
+2018-03-15T13:18:22+00:00 DEBUG > Inserted - post ID is 8.
+2018-03-15T13:18:22+00:00 DEBUG > Finished importing post ID 8.
+2018-03-15T13:18:22+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:22+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:22+00:00 DEBUG > Inserting MainOfferFreeShippingTwinSageGreen
+2018-03-15T13:18:22+00:00 DEBUG > Inserted - post ID is 9.
+2018-03-15T13:18:22+00:00 DEBUG > Finished importing post ID 9.
+2018-03-15T13:18:22+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:22+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:22+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:22+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:22+00:00 DEBUG ---
+2018-03-15T13:18:22+00:00 DEBUG Processing products.
+2018-03-15T13:18:22+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:22+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:22+00:00 DEBUG > Inserting MainOfferFreeShippingTwinSandShell
+2018-03-15T13:18:22+00:00 DEBUG > Inserted - post ID is 10.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 10.
+2018-03-15T13:18:23+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLCream
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 11.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 11.
+2018-03-15T13:18:23+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLCamel
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 12.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 12.
+2018-03-15T13:18:23+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLBrown
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 13.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 13.
+2018-03-15T13:18:23+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLBlue
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 14.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 14.
+2018-03-15T13:18:23+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLBurgundy
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 15.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 15.
+2018-03-15T13:18:23+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLWhite
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 16.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 16.
+2018-03-15T13:18:23+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLLavender
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 17.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 17.
+2018-03-15T13:18:23+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLDarkGray
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 18.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 18.
+2018-03-15T13:18:23+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:23+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:23+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLSageGreen
+2018-03-15T13:18:23+00:00 DEBUG > Inserted - post ID is 19.
+2018-03-15T13:18:23+00:00 DEBUG > Finished importing post ID 19.
+2018-03-15T13:18:23+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:24+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:24+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:24+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:24+00:00 DEBUG ---
+2018-03-15T13:18:24+00:00 DEBUG Processing products.
+2018-03-15T13:18:24+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:24+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:24+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLSandShell
+2018-03-15T13:18:24+00:00 DEBUG > Inserted - post ID is 20.
+2018-03-15T13:18:24+00:00 DEBUG > Finished importing post ID 20.
+2018-03-15T13:18:24+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:24+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:24+00:00 DEBUG > Inserting MainOfferFreeShippingFullCream
+2018-03-15T13:18:24+00:00 DEBUG > Inserted - post ID is 21.
+2018-03-15T13:18:24+00:00 DEBUG > Finished importing post ID 21.
+2018-03-15T13:18:24+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:24+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:24+00:00 DEBUG > Inserting MainOfferFreeShippingFullCamel
+2018-03-15T13:18:24+00:00 DEBUG > Inserted - post ID is 22.
+2018-03-15T13:18:24+00:00 DEBUG > Finished importing post ID 22.
+2018-03-15T13:18:24+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:24+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:24+00:00 DEBUG > Inserting MainOfferFreeShippingFullBrown
+2018-03-15T13:18:24+00:00 DEBUG > Inserted - post ID is 23.
+2018-03-15T13:18:24+00:00 DEBUG > Finished importing post ID 23.
+2018-03-15T13:18:24+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:24+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:24+00:00 DEBUG > Inserting MainOfferFreeShippingFullBlue
+2018-03-15T13:18:24+00:00 DEBUG > Inserted - post ID is 24.
+2018-03-15T13:18:24+00:00 DEBUG > Finished importing post ID 24.
+2018-03-15T13:18:24+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:24+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:24+00:00 DEBUG > Inserting MainOfferFreeShippingFullBurgundy
+2018-03-15T13:18:24+00:00 DEBUG > Inserted - post ID is 25.
+2018-03-15T13:18:25+00:00 DEBUG > Finished importing post ID 25.
+2018-03-15T13:18:25+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:25+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:25+00:00 DEBUG > Inserting MainOfferFreeShippingFullWhite
+2018-03-15T13:18:25+00:00 DEBUG > Inserted - post ID is 26.
+2018-03-15T13:18:25+00:00 DEBUG > Finished importing post ID 26.
+2018-03-15T13:18:25+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:25+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:25+00:00 DEBUG > Inserting MainOfferFreeShippingFullLavender
+2018-03-15T13:18:25+00:00 DEBUG > Inserted - post ID is 27.
+2018-03-15T13:18:25+00:00 DEBUG > Finished importing post ID 27.
+2018-03-15T13:18:25+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:25+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:25+00:00 DEBUG > Inserting MainOfferFreeShippingFullDarkGray
+2018-03-15T13:18:25+00:00 DEBUG > Inserted - post ID is 28.
+2018-03-15T13:18:25+00:00 DEBUG > Finished importing post ID 28.
+2018-03-15T13:18:25+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:25+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:25+00:00 DEBUG > Inserting MainOfferFreeShippingFullSageGreen
+2018-03-15T13:18:25+00:00 DEBUG > Inserted - post ID is 29.
+2018-03-15T13:18:25+00:00 DEBUG > Finished importing post ID 29.
+2018-03-15T13:18:25+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:26+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:26+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:26+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:26+00:00 DEBUG ---
+2018-03-15T13:18:26+00:00 DEBUG Processing products.
+2018-03-15T13:18:26+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingFullSandShell
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 30.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 30.
+2018-03-15T13:18:26+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenCream
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 31.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 31.
+2018-03-15T13:18:26+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenCamel
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 32.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 32.
+2018-03-15T13:18:26+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenBrown
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 33.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 33.
+2018-03-15T13:18:26+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenBlue
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 34.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 34.
+2018-03-15T13:18:26+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenBurgundy
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 35.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 35.
+2018-03-15T13:18:26+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenWhite
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 36.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 36.
+2018-03-15T13:18:26+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenLavender
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 37.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 37.
+2018-03-15T13:18:26+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenDarkGray
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 38.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 38.
+2018-03-15T13:18:26+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:26+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:26+00:00 DEBUG > Inserting MainOfferFreeShippingQueenSageGreen
+2018-03-15T13:18:26+00:00 DEBUG > Inserted - post ID is 39.
+2018-03-15T13:18:26+00:00 DEBUG > Finished importing post ID 39.
+2018-03-15T13:18:26+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:27+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:27+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:27+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:27+00:00 DEBUG ---
+2018-03-15T13:18:27+00:00 DEBUG Processing products.
+2018-03-15T13:18:27+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:27+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:27+00:00 DEBUG > Inserting MainOfferFreeShippingQueenSandShell
+2018-03-15T13:18:27+00:00 DEBUG > Inserted - post ID is 40.
+2018-03-15T13:18:27+00:00 DEBUG > Finished importing post ID 40.
+2018-03-15T13:18:27+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:27+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:27+00:00 DEBUG > Inserting MainOfferFreeShippingKingCream
+2018-03-15T13:18:27+00:00 DEBUG > Inserted - post ID is 41.
+2018-03-15T13:18:27+00:00 DEBUG > Finished importing post ID 41.
+2018-03-15T13:18:27+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:27+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:27+00:00 DEBUG > Inserting MainOfferFreeShippingKingCamel
+2018-03-15T13:18:27+00:00 DEBUG > Inserted - post ID is 42.
+2018-03-15T13:18:27+00:00 DEBUG > Finished importing post ID 42.
+2018-03-15T13:18:27+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:27+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:27+00:00 DEBUG > Inserting MainOfferFreeShippingKingBrown
+2018-03-15T13:18:27+00:00 DEBUG > Inserted - post ID is 43.
+2018-03-15T13:18:28+00:00 DEBUG > Finished importing post ID 43.
+2018-03-15T13:18:28+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:28+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:28+00:00 DEBUG > Inserting MainOfferFreeShippingKingBlue
+2018-03-15T13:18:28+00:00 DEBUG > Inserted - post ID is 44.
+2018-03-15T13:18:28+00:00 DEBUG > Finished importing post ID 44.
+2018-03-15T13:18:28+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:28+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:28+00:00 DEBUG > Inserting MainOfferFreeShippingKingBurgundy
+2018-03-15T13:18:28+00:00 DEBUG > Inserted - post ID is 45.
+2018-03-15T13:18:28+00:00 DEBUG > Finished importing post ID 45.
+2018-03-15T13:18:28+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:28+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:28+00:00 DEBUG > Inserting MainOfferFreeShippingKingWhite
+2018-03-15T13:18:28+00:00 DEBUG > Inserted - post ID is 46.
+2018-03-15T13:18:28+00:00 DEBUG > Finished importing post ID 46.
+2018-03-15T13:18:28+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:28+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:28+00:00 DEBUG > Inserting MainOfferFreeShippingKingLavender
+2018-03-15T13:18:28+00:00 DEBUG > Inserted - post ID is 47.
+2018-03-15T13:18:28+00:00 DEBUG > Finished importing post ID 47.
+2018-03-15T13:18:28+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:28+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:28+00:00 DEBUG > &#8220;48&#8221; ID already exists.
+2018-03-15T13:18:28+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:28+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:28+00:00 DEBUG > &#8220;49&#8221; ID already exists.
+2018-03-15T13:18:28+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:29+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:29+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:29+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:29+00:00 DEBUG ---
+2018-03-15T13:18:29+00:00 DEBUG Processing products.
+2018-03-15T13:18:29+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;50&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;51&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;52&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;53&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;54&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;55&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;56&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;57&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > Inserting MainOfferFreeShippingCaDarkGray
+2018-03-15T13:18:29+00:00 DEBUG > Inserted - post ID is 58.
+2018-03-15T13:18:29+00:00 DEBUG > Finished importing post ID 58.
+2018-03-15T13:18:29+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > &#8220;59&#8221; ID already exists.
+2018-03-15T13:18:29+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:29+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:29+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:29+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:29+00:00 DEBUG ---
+2018-03-15T13:18:29+00:00 DEBUG Processing products.
+2018-03-15T13:18:29+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:29+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:29+00:00 DEBUG > Inserting MainOfferFreeShippingCaSandShell
+2018-03-15T13:18:29+00:00 DEBUG > Inserted - post ID is 60.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 60.
+2018-03-15T13:18:30+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketTwin/TwinXLPinkLeopard
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 61.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 61.
+2018-03-15T13:18:30+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketFullPinkLeopard
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 62.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 62.
+2018-03-15T13:18:30+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketQueenPinkLeopard
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 63.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 63.
+2018-03-15T13:18:30+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketKingPinkLeopard
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 64.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 64.
+2018-03-15T13:18:30+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketCAKingPinkLeopard
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 65.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 65.
+2018-03-15T13:18:30+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketTwin/TwinXLSandShell
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 66.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 66.
+2018-03-15T13:18:30+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketFullSandShell
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 67.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 67.
+2018-03-15T13:18:30+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketQueenSandShell
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 68.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 68.
+2018-03-15T13:18:30+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:30+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:30+00:00 DEBUG > Inserting BlanketKingSandShell
+2018-03-15T13:18:30+00:00 DEBUG > Inserted - post ID is 69.
+2018-03-15T13:18:30+00:00 DEBUG > Finished importing post ID 69.
+2018-03-15T13:18:30+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:31+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:31+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:31+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:31+00:00 DEBUG ---
+2018-03-15T13:18:31+00:00 DEBUG Processing products.
+2018-03-15T13:18:31+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:31+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:31+00:00 DEBUG > Inserting BlanketCAKingSandShell
+2018-03-15T13:18:31+00:00 DEBUG > Inserted - post ID is 70.
+2018-03-15T13:18:31+00:00 DEBUG > Finished importing post ID 70.
+2018-03-15T13:18:31+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:31+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:31+00:00 DEBUG > Inserting BlanketTwin/TwinXLBlue
+2018-03-15T13:18:31+00:00 DEBUG > Inserted - post ID is 71.
+2018-03-15T13:18:31+00:00 DEBUG > Finished importing post ID 71.
+2018-03-15T13:18:31+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:31+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:31+00:00 DEBUG > Inserting BlanketFullBlue
+2018-03-15T13:18:31+00:00 DEBUG > Inserted - post ID is 72.
+2018-03-15T13:18:31+00:00 DEBUG > Finished importing post ID 72.
+2018-03-15T13:18:31+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:31+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:31+00:00 DEBUG > Inserting BlanketQueenBlue
+2018-03-15T13:18:31+00:00 DEBUG > Inserted - post ID is 73.
+2018-03-15T13:18:31+00:00 DEBUG > Finished importing post ID 73.
+2018-03-15T13:18:31+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:31+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:31+00:00 DEBUG > Inserting BlanketKingBlue
+2018-03-15T13:18:31+00:00 DEBUG > Inserted - post ID is 74.
+2018-03-15T13:18:32+00:00 DEBUG > Finished importing post ID 74.
+2018-03-15T13:18:32+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:32+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:32+00:00 DEBUG > Inserting BlanketCAKingBlue
+2018-03-15T13:18:32+00:00 DEBUG > Inserted - post ID is 75.
+2018-03-15T13:18:32+00:00 DEBUG > Finished importing post ID 75.
+2018-03-15T13:18:32+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:32+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:32+00:00 DEBUG > Inserting MattressTopperTwin/TwinXL
+2018-03-15T13:18:32+00:00 DEBUG > Inserted - post ID is 76.
+2018-03-15T13:18:32+00:00 DEBUG > Finished importing post ID 76.
+2018-03-15T13:18:32+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:32+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:32+00:00 DEBUG > Inserting MattressTopperFull
+2018-03-15T13:18:32+00:00 DEBUG > Inserted - post ID is 77.
+2018-03-15T13:18:32+00:00 DEBUG > Finished importing post ID 77.
+2018-03-15T13:18:32+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:32+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:32+00:00 DEBUG > Inserting MattressTopperQueen
+2018-03-15T13:18:32+00:00 DEBUG > Inserted - post ID is 78.
+2018-03-15T13:18:32+00:00 DEBUG > Finished importing post ID 78.
+2018-03-15T13:18:32+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:32+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:32+00:00 DEBUG > Inserting MattressTopperKing
+2018-03-15T13:18:32+00:00 DEBUG > Inserted - post ID is 79.
+2018-03-15T13:18:32+00:00 DEBUG > Finished importing post ID 79.
+2018-03-15T13:18:32+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:33+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:33+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:33+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:33+00:00 DEBUG ---
+2018-03-15T13:18:33+00:00 DEBUG Processing products.
+2018-03-15T13:18:33+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > Inserting Surcharge
+2018-03-15T13:18:33+00:00 DEBUG > Inserted - post ID is 80.
+2018-03-15T13:18:33+00:00 DEBUG > Finished importing post ID 80.
+2018-03-15T13:18:33+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinCreamDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinCamelDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinBrownDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinBurgundyDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinLavenderDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:33+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:33+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:33+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:33+00:00 DEBUG ---
+2018-03-15T13:18:33+00:00 DEBUG Processing products.
+2018-03-15T13:18:33+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLCreamDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLCamelDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLBrownDISC&#8221;Product already exists.
+2018-03-15T13:18:33+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:33+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:33+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLBurgundyDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLLavenderDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:34+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:34+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:34+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:34+00:00 DEBUG ---
+2018-03-15T13:18:34+00:00 DEBUG Processing products.
+2018-03-15T13:18:34+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingTwinXLSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullCreamDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullCamelDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullBrownDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullBurgundyDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullLavenderDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:34+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:34+00:00 DEBUG > &#8220;MainOfferFreeShippingFullSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:34+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:35+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:35+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:35+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:35+00:00 DEBUG ---
+2018-03-15T13:18:35+00:00 DEBUG Processing products.
+2018-03-15T13:18:35+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingFullSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenCreamDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenCamelDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenBrownDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenBurgundyDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenLavenderDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:35+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:35+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:35+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:36+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:36+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:36+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:36+00:00 DEBUG ---
+2018-03-15T13:18:36+00:00 DEBUG Processing products.
+2018-03-15T13:18:36+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingQueenSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingCreamDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingCamelDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingBrownDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingBurgundyDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > &#8220;MainOfferFreeShippingKingLavenderDISC&#8221;Product already exists.
+2018-03-15T13:18:36+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > Inserting MainOfferFreeShippingKingDarkGrayDISC
+2018-03-15T13:18:36+00:00 DEBUG > Inserted - post ID is 128.
+2018-03-15T13:18:36+00:00 DEBUG > Finished importing post ID 128.
+2018-03-15T13:18:36+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:36+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:36+00:00 DEBUG > Inserting MainOfferFreeShippingKingSageGreenDISC
+2018-03-15T13:18:36+00:00 DEBUG > Inserted - post ID is 129.
+2018-03-15T13:18:36+00:00 DEBUG > Finished importing post ID 129.
+2018-03-15T13:18:36+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:37+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:37+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:37+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:37+00:00 DEBUG ---
+2018-03-15T13:18:37+00:00 DEBUG Processing products.
+2018-03-15T13:18:37+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingKingSandShellDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 130.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 130.
+2018-03-15T13:18:37+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaCreamDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 131.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 131.
+2018-03-15T13:18:37+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaCamelDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 132.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 132.
+2018-03-15T13:18:37+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaBrownDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 133.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 133.
+2018-03-15T13:18:37+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaBlueDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 134.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 134.
+2018-03-15T13:18:37+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaBurgundyDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 135.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 135.
+2018-03-15T13:18:37+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaWhiteDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 136.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 136.
+2018-03-15T13:18:37+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaLavenderDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 137.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 137.
+2018-03-15T13:18:37+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > &#8220;MainOfferFreeShippingCaDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:37+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:37+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:37+00:00 DEBUG > Inserting MainOfferFreeShippingCaSageGreenDISC
+2018-03-15T13:18:37+00:00 DEBUG > Inserted - post ID is 139.
+2018-03-15T13:18:37+00:00 DEBUG > Finished importing post ID 139.
+2018-03-15T13:18:37+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:38+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:38+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:38+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:38+00:00 DEBUG ---
+2018-03-15T13:18:38+00:00 DEBUG Processing products.
+2018-03-15T13:18:38+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;MainOfferFreeShippingCaSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketTwin/TwinXLPinkLeopardDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketFullPinkLeopardDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketQueenPinkLeopardDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketKingPinkLeopardDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketCAKingPinkLeopardDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketTwin/TwinXLSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketFullSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketQueenSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:38+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:38+00:00 DEBUG > &#8220;BlanketKingSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:38+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:39+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:39+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:39+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:39+00:00 DEBUG ---
+2018-03-15T13:18:39+00:00 DEBUG Processing products.
+2018-03-15T13:18:39+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > &#8220;BlanketCAKingSandShellDISC&#8221;Product already exists.
+2018-03-15T13:18:39+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > &#8220;BlanketTwin/TwinXLBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:39+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > &#8220;BlanketFullBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:39+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > &#8220;BlanketQueenBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:39+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > &#8220;BlanketKingBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:39+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "california king" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > &#8220;BlanketCAKingBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:39+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "standard/queen - medium" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > Inserting ChamberPillowQueenMD
+2018-03-15T13:18:39+00:00 DEBUG > Inserted - post ID is 156.
+2018-03-15T13:18:39+00:00 DEBUG > Finished importing post ID 156.
+2018-03-15T13:18:39+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "king - medium" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > Inserting ChamberPillowKingMD
+2018-03-15T13:18:39+00:00 DEBUG > Inserted - post ID is 157.
+2018-03-15T13:18:39+00:00 DEBUG > Finished importing post ID 157.
+2018-03-15T13:18:39+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "standard/queen - firm" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > Inserting ChamberPillowQueenFRM
+2018-03-15T13:18:39+00:00 DEBUG > Inserted - post ID is 158.
+2018-03-15T13:18:39+00:00 DEBUG > Finished importing post ID 158.
+2018-03-15T13:18:39+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:39+00:00 DEBUG > > > Product type "king - firm" not allowed - using simple.
+2018-03-15T13:18:39+00:00 DEBUG > Inserting ChamberPillowKingFRM
+2018-03-15T13:18:39+00:00 DEBUG > Inserted - post ID is 159.
+2018-03-15T13:18:39+00:00 DEBUG > Finished importing post ID 159.
+2018-03-15T13:18:39+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:40+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:40+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:40+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:40+00:00 DEBUG ---
+2018-03-15T13:18:40+00:00 DEBUG Processing products.
+2018-03-15T13:18:40+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "standard/queen" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting PillowProtectorQueen
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 160.
+2018-03-15T13:18:40+00:00 DEBUG > Finished importing post ID 160.
+2018-03-15T13:18:40+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting PillowProtectorKing
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 161.
+2018-03-15T13:18:40+00:00 DEBUG > Finished importing post ID 161.
+2018-03-15T13:18:40+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "standard/queen" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting PillowCaseQueen
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 162.
+2018-03-15T13:18:40+00:00 DEBUG > Finished importing post ID 162.
+2018-03-15T13:18:40+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "standard/20" x 26"" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting ThrowPillowStandard
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 163.
+2018-03-15T13:18:40+00:00 DEBUG > Finished importing post ID 163.
+2018-03-15T13:18:40+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "queen/20" x 30"" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting ThrowPillowQueen
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 164.
+2018-03-15T13:18:40+00:00 DEBUG > Finished importing post ID 164.
+2018-03-15T13:18:40+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "king/20" x 36"" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting ThrowPillowKing
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 165.
+2018-03-15T13:18:40+00:00 DEBUG > Finished importing post ID 165.
+2018-03-15T13:18:40+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "standard/queen - medium" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > &#8220;ChamberPillowQueenMDDISC&#8221;Product already exists.
+2018-03-15T13:18:40+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "king - medium" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > &#8220;ChamberPillowKingMDDISC&#8221;Product already exists.
+2018-03-15T13:18:40+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:40+00:00 DEBUG > > > Product type "standard/queen - firm" not allowed - using simple.
+2018-03-15T13:18:40+00:00 DEBUG > Inserting ChamberPillowQueenFRMDISC
+2018-03-15T13:18:40+00:00 DEBUG > Inserted - post ID is 168.
+2018-03-15T13:18:41+00:00 DEBUG > Finished importing post ID 168.
+2018-03-15T13:18:41+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "king - firm" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;ChamberPillowKingFRMDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:41+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:41+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:41+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:41+00:00 DEBUG ---
+2018-03-15T13:18:41+00:00 DEBUG Processing products.
+2018-03-15T13:18:41+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "standard/queen" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;PillowProtectorQueenDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;PillowProtectorKingDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "standard/queen" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;PillowCaseQueenDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "standard/20" x 26"" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;ThrowPillowStandardDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "queen/20" x 30"" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;ThrowPillowQueenDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "king/20" x 36"" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > &#8220;ThrowPillowKingDISC&#8221;Product already exists.
+2018-03-15T13:18:41+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > Inserting MainOfferTwinWhite
+2018-03-15T13:18:41+00:00 DEBUG > Inserted - post ID is 176.
+2018-03-15T13:18:41+00:00 DEBUG > Finished importing post ID 176.
+2018-03-15T13:18:41+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > Inserting MainOfferTwinXLWhite
+2018-03-15T13:18:41+00:00 DEBUG > Inserted - post ID is 177.
+2018-03-15T13:18:41+00:00 DEBUG > Finished importing post ID 177.
+2018-03-15T13:18:41+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:41+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:41+00:00 DEBUG > Inserting MainOfferKingWhite
+2018-03-15T13:18:41+00:00 DEBUG > Inserted - post ID is 178.
+2018-03-15T13:18:42+00:00 DEBUG > Finished importing post ID 178.
+2018-03-15T13:18:42+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:42+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:42+00:00 DEBUG > Inserting MainOfferCaliKingWhite
+2018-03-15T13:18:42+00:00 DEBUG > Inserted - post ID is 179.
+2018-03-15T13:18:42+00:00 DEBUG > Finished importing post ID 179.
+2018-03-15T13:18:42+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:42+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:42+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:42+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:42+00:00 DEBUG ---
+2018-03-15T13:18:42+00:00 DEBUG Processing products.
+2018-03-15T13:18:42+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:42+00:00 DEBUG > > > Product type "split california" not allowed - using simple.
+2018-03-15T13:18:42+00:00 DEBUG > Inserting MainOfferSltCalWhite
+2018-03-15T13:18:42+00:00 DEBUG > Inserted - post ID is 180.
+2018-03-15T13:18:42+00:00 DEBUG > Finished importing post ID 180.
+2018-03-15T13:18:42+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:42+00:00 DEBUG > > > Product type "split king" not allowed - using simple.
+2018-03-15T13:18:42+00:00 DEBUG > Inserting MainOfferSltKingWhite
+2018-03-15T13:18:42+00:00 DEBUG > Inserted - post ID is 181.
+2018-03-15T13:18:42+00:00 DEBUG > Finished importing post ID 181.
+2018-03-15T13:18:42+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:42+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:42+00:00 DEBUG > Inserting MainOfferFullWhite
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 182.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 182.
+2018-03-15T13:18:43+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOfferQueenWhite
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 183.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 183.
+2018-03-15T13:18:43+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOffeTwinSandshell
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 184.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 184.
+2018-03-15T13:18:43+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOfferTwinXLSandshell
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 185.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 185.
+2018-03-15T13:18:43+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOfferFullSandshell
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 186.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 186.
+2018-03-15T13:18:43+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOfferQueenSandshell
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 187.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 187.
+2018-03-15T13:18:43+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOfferKingSandshell
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 188.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 188.
+2018-03-15T13:18:43+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:43+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:43+00:00 DEBUG > Inserting MainOfferCaliKingSandshell
+2018-03-15T13:18:43+00:00 DEBUG > Inserted - post ID is 189.
+2018-03-15T13:18:43+00:00 DEBUG > Finished importing post ID 189.
+2018-03-15T13:18:43+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:44+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:44+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:44+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:44+00:00 DEBUG ---
+2018-03-15T13:18:44+00:00 DEBUG Processing products.
+2018-03-15T13:18:44+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "split california" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > Inserting MainOfferSltCalSandshell
+2018-03-15T13:18:44+00:00 DEBUG > Inserted - post ID is 190.
+2018-03-15T13:18:44+00:00 DEBUG > Finished importing post ID 190.
+2018-03-15T13:18:44+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "split king" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > &#8220;191&#8221; ID already exists.
+2018-03-15T13:18:44+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > &#8220;192&#8221; ID already exists.
+2018-03-15T13:18:44+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > &#8220;193&#8221; ID already exists.
+2018-03-15T13:18:44+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > &#8220;194&#8221; ID already exists.
+2018-03-15T13:18:44+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > Inserting MainOfferQueenILLBlue
+2018-03-15T13:18:44+00:00 DEBUG > Inserted - post ID is 195.
+2018-03-15T13:18:44+00:00 DEBUG > Finished importing post ID 195.
+2018-03-15T13:18:44+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > &#8220;196&#8221; ID already exists.
+2018-03-15T13:18:44+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > Inserting MainOfferCaliKingILLBlue
+2018-03-15T13:18:44+00:00 DEBUG > Inserted - post ID is 197.
+2018-03-15T13:18:44+00:00 DEBUG > Finished importing post ID 197.
+2018-03-15T13:18:44+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "split california" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > Inserting MainOfferSltCaLILLBlue
+2018-03-15T13:18:44+00:00 DEBUG > Inserted - post ID is 198.
+2018-03-15T13:18:44+00:00 DEBUG > Finished importing post ID 198.
+2018-03-15T13:18:44+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:44+00:00 DEBUG > > > Product type "split king" not allowed - using simple.
+2018-03-15T13:18:44+00:00 DEBUG > Inserting MainOfferSltKingILLBlue
+2018-03-15T13:18:44+00:00 DEBUG > Inserted - post ID is 199.
+2018-03-15T13:18:44+00:00 DEBUG > Finished importing post ID 199.
+2018-03-15T13:18:44+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:45+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:45+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:45+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:45+00:00 DEBUG ---
+2018-03-15T13:18:45+00:00 DEBUG Processing products.
+2018-03-15T13:18:45+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferTwinWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferTwinXLWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferFullWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferQueenWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferKingWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferCaliKingWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "split california" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferSltCalWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "split king" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferSltKingWhiteDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferFullSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:45+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:45+00:00 DEBUG > &#8220;MainOfferQueenSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:45+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:46+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:46+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:46+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:46+00:00 DEBUG ---
+2018-03-15T13:18:46+00:00 DEBUG Processing products.
+2018-03-15T13:18:46+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferKingSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferCaliKingSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "split california" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferSltCalSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "split king" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > Inserting MainOfferSltKingSandshellDISC
+2018-03-15T13:18:46+00:00 DEBUG > Inserted - post ID is 213.
+2018-03-15T13:18:46+00:00 DEBUG > Finished importing post ID 213.
+2018-03-15T13:18:46+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferTwinSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferTwinXLSandshellDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > Inserting MainOfferFuLLILLBlueDISC
+2018-03-15T13:18:46+00:00 DEBUG > Inserted - post ID is 216.
+2018-03-15T13:18:46+00:00 DEBUG > Finished importing post ID 216.
+2018-03-15T13:18:46+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferQueenILLBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > Inserting MainOfferKingILLBlueDISC
+2018-03-15T13:18:46+00:00 DEBUG > Inserted - post ID is 218.
+2018-03-15T13:18:46+00:00 DEBUG > Finished importing post ID 218.
+2018-03-15T13:18:46+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:46+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:46+00:00 DEBUG > &#8220;MainOfferCaliKingILLBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:46+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:47+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:47+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:47+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:47+00:00 DEBUG ---
+2018-03-15T13:18:47+00:00 DEBUG Processing products.
+2018-03-15T13:18:47+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "split california" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > &#8220;MainOfferSltCaLILLBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:47+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "split king" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > &#8220;MainOfferSltKingILLBlueDISC&#8221;Product already exists.
+2018-03-15T13:18:47+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "twin" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting MainOfferTwinILLBlueDISC
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 222.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 222.
+2018-03-15T13:18:47+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "twin xl" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting MainOfferTwinXLILLBlueDISC
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 223.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 223.
+2018-03-15T13:18:47+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting BlanketTwin/TwinXLDarkGray
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 224.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 224.
+2018-03-15T13:18:47+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting BlanketFullDarkGray
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 225.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 225.
+2018-03-15T13:18:47+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting BlanketQueenDarkGray
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 226.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 226.
+2018-03-15T13:18:47+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting BlanketKingDarkGray
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 227.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 227.
+2018-03-15T13:18:47+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > Inserting BlanketCAKingDarkGray
+2018-03-15T13:18:47+00:00 DEBUG > Inserted - post ID is 228.
+2018-03-15T13:18:47+00:00 DEBUG > Finished importing post ID 228.
+2018-03-15T13:18:47+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:47+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:47+00:00 DEBUG > &#8220;BlanketTwin/TwinXLDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:47+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:48+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:48+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:48+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:48+00:00 DEBUG ---
+2018-03-15T13:18:48+00:00 DEBUG Processing products.
+2018-03-15T13:18:48+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > &#8220;BlanketFullDarkGraydDISC&#8221;Product already exists.
+2018-03-15T13:18:48+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > &#8220;BlanketQueenDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:48+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > &#8220;BlanketKingDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:48+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > &#8220;BlanketCAKingDarkGrayDISC&#8221;Product already exists.
+2018-03-15T13:18:48+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > Inserting BlanketTwin/TwinXLGardenia
+2018-03-15T13:18:48+00:00 DEBUG > Inserted - post ID is 234.
+2018-03-15T13:18:48+00:00 DEBUG > Finished importing post ID 234.
+2018-03-15T13:18:48+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > Inserting BlanketFullGardenia
+2018-03-15T13:18:48+00:00 DEBUG > Inserted - post ID is 235.
+2018-03-15T13:18:48+00:00 DEBUG > Finished importing post ID 235.
+2018-03-15T13:18:48+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > Inserting BlanketQueenGardenia
+2018-03-15T13:18:48+00:00 DEBUG > Inserted - post ID is 236.
+2018-03-15T13:18:48+00:00 DEBUG > Finished importing post ID 236.
+2018-03-15T13:18:48+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:48+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:48+00:00 DEBUG > Inserting BlanketKingGardenia
+2018-03-15T13:18:48+00:00 DEBUG > Inserted - post ID is 237.
+2018-03-15T13:18:49+00:00 DEBUG > Finished importing post ID 237.
+2018-03-15T13:18:49+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > Inserting BlanketCAKingGardenia
+2018-03-15T13:18:49+00:00 DEBUG > Inserted - post ID is 238.
+2018-03-15T13:18:49+00:00 DEBUG > Finished importing post ID 238.
+2018-03-15T13:18:49+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > &#8220;BlanketTwin/TwinXLGardeniaDISC&#8221;Product already exists.
+2018-03-15T13:18:49+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:49+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:49+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:49+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:49+00:00 DEBUG ---
+2018-03-15T13:18:49+00:00 DEBUG Processing products.
+2018-03-15T13:18:49+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > &#8220;BlanketFullGardeniaDISC&#8221;Product already exists.
+2018-03-15T13:18:49+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > &#8220;BlanketQueenGardeniaDISC&#8221;Product already exists.
+2018-03-15T13:18:49+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > &#8220;BlanketKingGardeniaDISC&#8221;Product already exists.
+2018-03-15T13:18:49+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > &#8220;BlanketCAKingGardeniaDISC&#8221;Product already exists.
+2018-03-15T13:18:49+00:00 DEBUG > Row 5 - preparing for import.
+2018-03-15T13:18:49+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:49+00:00 DEBUG > Inserting BlanketTwin/TwinXLSageGreen
+2018-03-15T13:18:49+00:00 DEBUG > Inserted - post ID is 244.
+2018-03-15T13:18:50+00:00 DEBUG > Finished importing post ID 244.
+2018-03-15T13:18:50+00:00 DEBUG > Row 6 - preparing for import.
+2018-03-15T13:18:50+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:50+00:00 DEBUG > Inserting BlanketFullSageGreen
+2018-03-15T13:18:50+00:00 DEBUG > Inserted - post ID is 245.
+2018-03-15T13:18:50+00:00 DEBUG > Finished importing post ID 245.
+2018-03-15T13:18:50+00:00 DEBUG > Row 7 - preparing for import.
+2018-03-15T13:18:50+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:50+00:00 DEBUG > Inserting BlanketQueenSageGreen
+2018-03-15T13:18:50+00:00 DEBUG > Inserted - post ID is 246.
+2018-03-15T13:18:50+00:00 DEBUG > Finished importing post ID 246.
+2018-03-15T13:18:50+00:00 DEBUG > Row 8 - preparing for import.
+2018-03-15T13:18:50+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:50+00:00 DEBUG > Inserting BlanketKingSageGreen
+2018-03-15T13:18:50+00:00 DEBUG > Inserted - post ID is 247.
+2018-03-15T13:18:50+00:00 DEBUG > Finished importing post ID 247.
+2018-03-15T13:18:50+00:00 DEBUG > Row 9 - preparing for import.
+2018-03-15T13:18:50+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:50+00:00 DEBUG > Inserting BlanketCAKingSageGreen
+2018-03-15T13:18:50+00:00 DEBUG > Inserted - post ID is 248.
+2018-03-15T13:18:50+00:00 DEBUG > Finished importing post ID 248.
+2018-03-15T13:18:50+00:00 DEBUG > Row 10 - preparing for import.
+2018-03-15T13:18:50+00:00 DEBUG > > > Product type "twin/twin xl" not allowed - using simple.
+2018-03-15T13:18:50+00:00 DEBUG > &#8220;BlanketTwin/TwinXLSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:50+00:00 DEBUG Finished processing products.
+2018-03-15T13:18:51+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:18:51+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:18:51+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:18:51+00:00 DEBUG ---
+2018-03-15T13:18:51+00:00 DEBUG Processing products.
+2018-03-15T13:18:51+00:00 DEBUG > Row 1 - preparing for import.
+2018-03-15T13:18:51+00:00 DEBUG > > > Product type "full" not allowed - using simple.
+2018-03-15T13:18:51+00:00 DEBUG > &#8220;BlanketFullSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:51+00:00 DEBUG > Row 2 - preparing for import.
+2018-03-15T13:18:51+00:00 DEBUG > > > Product type "queen" not allowed - using simple.
+2018-03-15T13:18:51+00:00 DEBUG > &#8220;BlanketQueenSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:51+00:00 DEBUG > Row 3 - preparing for import.
+2018-03-15T13:18:51+00:00 DEBUG > > > Product type "king" not allowed - using simple.
+2018-03-15T13:18:51+00:00 DEBUG > &#8220;BlanketKingSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:51+00:00 DEBUG > Row 4 - preparing for import.
+2018-03-15T13:18:51+00:00 DEBUG > > > Product type "ca king" not allowed - using simple.
+2018-03-15T13:18:51+00:00 DEBUG > &#8220;BlanketCAKingSageGreenDISC&#8221;Product already exists.
+2018-03-15T13:18:51+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:09+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:09+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:09+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:09+00:00 DEBUG ---
+2018-03-15T13:27:09+00:00 DEBUG Processing products.
+2018-03-15T13:27:09+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 1.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 1
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” CREAM
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinCream
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 1.
+2018-03-15T13:27:09+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 2.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 2
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” CAMEL
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinCamel
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 2.
+2018-03-15T13:27:09+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 3.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 3
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” BROWN
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinBrown
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 3.
+2018-03-15T13:27:09+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 4.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 4
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” BLUE
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinBlue
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 4.
+2018-03-15T13:27:09+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 5.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 5
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” BURGUNDY
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinBurgundy
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 5.
+2018-03-15T13:27:09+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 6.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 6
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” WHITE
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinWhite
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 6.
+2018-03-15T13:27:09+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 7.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 7
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” LAVENDER
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinLavender
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 7.
+2018-03-15T13:27:09+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 8.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 8
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” DARK GRAY
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinDarkGray
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 8.
+2018-03-15T13:27:09+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:09+00:00 DEBUG > Merging post ID 9.
+2018-03-15T13:27:09+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 9
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” SAGE GREEN
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinSageGreen
+)
+
+2018-03-15T13:27:09+00:00 DEBUG > Finished merging post ID 9.
+2018-03-15T13:27:09+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:10+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:10+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:10+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:10+00:00 DEBUG ---
+2018-03-15T13:27:10+00:00 DEBUG Processing products.
+2018-03-15T13:27:10+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 10.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 10
+    [post_content] => Twin Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-75” X D-16”, (2)  pillow cases 20” x 30” SAND SHELL
+    [post_excerpt] => Twin - $19.95
+    [post_title] => MainOfferFreeShippingTwinSandShell
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 10.
+2018-03-15T13:27:10+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 11.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 11
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” CREAM
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLCream
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 11.
+2018-03-15T13:27:10+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 12.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 12
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” CAMEL
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLCamel
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 12.
+2018-03-15T13:27:10+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 13.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 13
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” BROWN
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLBrown
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 13.
+2018-03-15T13:27:10+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 14.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 14
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” BLUE
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLBlue
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 14.
+2018-03-15T13:27:10+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 15.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 15
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” BURGUNDY
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLBurgundy
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 15.
+2018-03-15T13:27:10+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 16.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 16
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” WHITE
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLWhite
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 16.
+2018-03-15T13:27:10+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 17.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 17
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” LAVENDER
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLLavender
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 17.
+2018-03-15T13:27:10+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 18.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 18
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” DARK GRAY
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLDarkGray
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 18.
+2018-03-15T13:27:10+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:10+00:00 DEBUG > Merging post ID 19.
+2018-03-15T13:27:10+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 19
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” SAGE GREEN
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLSageGreen
+)
+
+2018-03-15T13:27:10+00:00 DEBUG > Finished merging post ID 19.
+2018-03-15T13:27:10+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:11+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:11+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:11+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:11+00:00 DEBUG ---
+2018-03-15T13:27:11+00:00 DEBUG Processing products.
+2018-03-15T13:27:11+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 20.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 20
+    [post_content] => Twin XL Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98”, (1) fitted sheet W-39” x L-80”x D-16”, (2) pillow cases 20” x 30” SAND SHELL
+    [post_excerpt] => Twin XL - $39.95
+    [post_title] => MainOfferFreeShippingTwinXLSandShell
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 20.
+2018-03-15T13:27:11+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 21.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 21
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” CREAM
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullCream
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 21.
+2018-03-15T13:27:11+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 22.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 22
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” CAMEL
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullCamel
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 22.
+2018-03-15T13:27:11+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 23.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 23
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” BROWN
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullBrown
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 23.
+2018-03-15T13:27:11+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 24.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 24
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” BLUE
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullBlue
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 24.
+2018-03-15T13:27:11+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 25.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 25
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” BURGUNDY
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullBurgundy
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 25.
+2018-03-15T13:27:11+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 26.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 26
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” WHITE
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullWhite
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 26.
+2018-03-15T13:27:11+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 27.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 27
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” LAVENDER
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullLavender
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 27.
+2018-03-15T13:27:11+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 28.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 28
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” DARK GRAY
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullDarkGray
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 28.
+2018-03-15T13:27:11+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:11+00:00 DEBUG > Merging post ID 29.
+2018-03-15T13:27:11+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 29
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” SAGE GREEN
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullSageGreen
+)
+
+2018-03-15T13:27:11+00:00 DEBUG > Finished merging post ID 29.
+2018-03-15T13:27:11+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:12+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:12+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:12+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:12+00:00 DEBUG ---
+2018-03-15T13:27:12+00:00 DEBUG Processing products.
+2018-03-15T13:27:12+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 30.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 30
+    [post_content] => Full Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98”, (1) fitted sheet W-54” x L-75" x D-18”, (2) pillow cases 20” x 30” SAND SHELL
+    [post_excerpt] => Full - $49.95
+    [post_title] => MainOfferFreeShippingFullSandShell
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 30.
+2018-03-15T13:27:12+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 31.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 31
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” CREAM
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenCream
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 31.
+2018-03-15T13:27:12+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 32.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 32
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” CAMEL
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenCamel
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 32.
+2018-03-15T13:27:12+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 33.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 33
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” BROWN
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenBrown
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 33.
+2018-03-15T13:27:12+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 34.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 34
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” BLUE
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenBlue
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 34.
+2018-03-15T13:27:12+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 35.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 35
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” BURGUNDY
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenBurgundy
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 35.
+2018-03-15T13:27:12+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 36.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 36
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” WHITE
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenWhite
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 36.
+2018-03-15T13:27:12+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 37.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 37
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” LAVENDER
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenLavender
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 37.
+2018-03-15T13:27:12+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 38.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 38
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” DARK GRAY
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenDarkGray
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 38.
+2018-03-15T13:27:12+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:12+00:00 DEBUG > Merging post ID 39.
+2018-03-15T13:27:12+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 39
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” SAGE GREEN
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenSageGreen
+)
+
+2018-03-15T13:27:12+00:00 DEBUG > Finished merging post ID 39.
+2018-03-15T13:27:12+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:13+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:13+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:13+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:13+00:00 DEBUG ---
+2018-03-15T13:27:13+00:00 DEBUG Processing products.
+2018-03-15T13:27:13+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 40.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 40
+    [post_content] => Queen Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108”, (1) fitted sheet W-60” x L-80” x D-18”, (2) pillow cases 20” x 30” SAND SHELL
+    [post_excerpt] => Queen - $59.95
+    [post_title] => MainOfferFreeShippingQueenSandShell
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 40.
+2018-03-15T13:27:13+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 41.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 41
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” CREAM
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingCream
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 41.
+2018-03-15T13:27:13+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 42.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 42
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” CAMEL
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingCamel
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 42.
+2018-03-15T13:27:13+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 43.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 43
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” BROWN
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingBrown
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 43.
+2018-03-15T13:27:13+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 44.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 44
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” BLUE
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingBlue
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 44.
+2018-03-15T13:27:13+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 45.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 45
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” BURGUNDY
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingBurgundy
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 45.
+2018-03-15T13:27:13+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 46.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 46
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” WHITE
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingWhite
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 46.
+2018-03-15T13:27:13+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > Merging post ID 47.
+2018-03-15T13:27:13+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 47
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” LAVENDER
+    [post_excerpt] => King - $69.95
+    [post_title] => MainOfferFreeShippingKingLavender
+)
+
+2018-03-15T13:27:13+00:00 DEBUG > Finished merging post ID 47.
+2018-03-15T13:27:13+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > &#8220;48&#8221; is not a product.
+2018-03-15T13:27:13+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:13+00:00 DEBUG > &#8220;49&#8221; is not a product.
+2018-03-15T13:27:13+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:14+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:14+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:14+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:14+00:00 DEBUG ---
+2018-03-15T13:27:14+00:00 DEBUG Processing products.
+2018-03-15T13:27:14+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > &#8220;50&#8221; is not a product.
+2018-03-15T13:27:14+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > &#8220;51&#8221; is not a product.
+2018-03-15T13:27:14+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > &#8220;52&#8221; is not a product.
+2018-03-15T13:27:14+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > &#8220;53&#8221; is not a product.
+2018-03-15T13:27:14+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > &#8220;54&#8221; is not a product.
+2018-03-15T13:27:14+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > &#8220;55&#8221; is not a product.
+2018-03-15T13:27:14+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > Merging post ID 56.
+2018-03-15T13:27:14+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 56
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” WHITE
+    [post_excerpt] => California King - $79.95
+    [post_title] => MainOfferFreeShippingCaWhite
+)
+
+2018-03-15T13:27:14+00:00 DEBUG > Finished merging post ID 56.
+2018-03-15T13:27:14+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > Merging post ID 57.
+2018-03-15T13:27:14+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 57
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” LAVENDER
+    [post_excerpt] => California King - $79.95
+    [post_title] => MainOfferFreeShippingCaLavender
+)
+
+2018-03-15T13:27:14+00:00 DEBUG > Finished merging post ID 57.
+2018-03-15T13:27:14+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > Merging post ID 58.
+2018-03-15T13:27:14+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 58
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” DARK GRAY
+    [post_excerpt] => California King - $79.95
+    [post_title] => MainOfferFreeShippingCaDarkGray
+)
+
+2018-03-15T13:27:14+00:00 DEBUG > Finished merging post ID 58.
+2018-03-15T13:27:14+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:14+00:00 DEBUG > Merging post ID 59.
+2018-03-15T13:27:14+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 59
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” SAGE GREEN
+    [post_excerpt] => California King - $79.95
+    [post_title] => MainOfferFreeShippingCaSageGreen
+)
+
+2018-03-15T13:27:14+00:00 DEBUG > Finished merging post ID 59.
+2018-03-15T13:27:14+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:15+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:15+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:15+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:15+00:00 DEBUG ---
+2018-03-15T13:27:15+00:00 DEBUG Processing products.
+2018-03-15T13:27:15+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 60.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 60
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” SAND SHELL
+    [post_excerpt] => California King - $79.95
+    [post_title] => MainOfferFreeShippingCaSandShell
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 60.
+2018-03-15T13:27:15+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 61.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 61
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Twin/TwinXL W-68” x L-98" Pink Leopard
+    [post_excerpt] => Twin/Twin XL - $79.95
+    [post_title] => BlanketTwin/TwinXLPinkLeopard
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 61.
+2018-03-15T13:27:15+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 62.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 62
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Full W-88” x L-98” Pink Leopard
+    [post_excerpt] => Full - $79.95
+    [post_title] => BlanketFullPinkLeopard
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 62.
+2018-03-15T13:27:15+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 63.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 63
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Queen W-94” x L-108” Pink Leopard
+    [post_excerpt] => Queen - $79.95
+    [post_title] => BlanketQueenPinkLeopard
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 63.
+2018-03-15T13:27:15+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 64.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 64
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket King W-112” x L-108”  Pink Leopard
+    [post_excerpt] => King - $89.95
+    [post_title] => BlanketKingPinkLeopard
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 64.
+2018-03-15T13:27:15+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 65.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 65
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket CA King W-108” x L-110” Pink Leopard
+    [post_excerpt] => California King - $89.95
+    [post_title] => BlanketCAKingPinkLeopard
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 65.
+2018-03-15T13:27:15+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 66.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 66
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Twin/TwinXL W-68” x L-98" Sand Shell
+    [post_excerpt] => Twin/Twin XL - $79.95
+    [post_title] => BlanketTwin/TwinXLSandShell
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 66.
+2018-03-15T13:27:15+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 67.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 67
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Full W-88” x L-98” Sand Shell
+    [post_excerpt] => Full - $79.95
+    [post_title] => BlanketFullSandShell
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 67.
+2018-03-15T13:27:15+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 68.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 68
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Queen W-94” x L-108” Sand Shell
+    [post_excerpt] => Queen - $79.95
+    [post_title] => BlanketQueenSandShell
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 68.
+2018-03-15T13:27:15+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:15+00:00 DEBUG > Merging post ID 69.
+2018-03-15T13:27:15+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 69
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket King W-112” x L-108” Sand Shell
+    [post_excerpt] => King - $89.95
+    [post_title] => BlanketKingSandShell
+)
+
+2018-03-15T13:27:15+00:00 DEBUG > Finished merging post ID 69.
+2018-03-15T13:27:15+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:16+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:16+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:16+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:16+00:00 DEBUG ---
+2018-03-15T13:27:16+00:00 DEBUG Processing products.
+2018-03-15T13:27:16+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 70.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 70
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket CA King W-108” x L-110” Sand Shell
+    [post_excerpt] => California King - $89.95
+    [post_title] => BlanketCAKingSandShell
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 70.
+2018-03-15T13:27:16+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 71.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 71
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Twin/TwinXL W-68” x L-98" Blue
+    [post_excerpt] => Twin/Twin XL - $79.95
+    [post_title] => BlanketTwin/TwinXLBlue
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 71.
+2018-03-15T13:27:16+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 72.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 72
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Full W-88” x L-98” Blue
+    [post_excerpt] => Full - $79.95
+    [post_title] => BlanketFullBlue
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 72.
+2018-03-15T13:27:16+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 73.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 73
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Queen W-94” x L-108” Blue
+    [post_excerpt] => Queen - $79.95
+    [post_title] => BlanketQueenBlue
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 73.
+2018-03-15T13:27:16+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 74.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 74
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket King W-112” x L-108” Blue
+    [post_excerpt] => King - $89.95
+    [post_title] => BlanketKingBlue
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 74.
+2018-03-15T13:27:16+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 75.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 75
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket CA King W-108” x L-110” Blue
+    [post_excerpt] => California King - $89.95
+    [post_title] => BlanketCAKingBlue
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 75.
+2018-03-15T13:27:16+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 76.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 76
+    [post_content] => Effortless Bedding Mattress Topper Twin/TwinXL
+    [post_excerpt] => Twin/Twin XL - $89.95
+    [post_title] => MattressTopperTwin/TwinXL
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 76.
+2018-03-15T13:27:16+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 77.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 77
+    [post_content] => Effortless Bedding Mattress Topper Full
+    [post_excerpt] => Full - $89.95
+    [post_title] => MattressTopperFull
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 77.
+2018-03-15T13:27:16+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 78.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 78
+    [post_content] => Effortless Bedding Mattress Topper Queen
+    [post_excerpt] => Queen - $89.95
+    [post_title] => MattressTopperQueen
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 78.
+2018-03-15T13:27:16+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:16+00:00 DEBUG > Merging post ID 79.
+2018-03-15T13:27:16+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 79
+    [post_content] => Effortless Bedding Mattress Topper King
+    [post_excerpt] => King - $89.95
+    [post_title] => MattressTopperKing
+)
+
+2018-03-15T13:27:16+00:00 DEBUG > Finished merging post ID 79.
+2018-03-15T13:27:16+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:17+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:17+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:17+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:17+00:00 DEBUG ---
+2018-03-15T13:27:17+00:00 DEBUG Processing products.
+2018-03-15T13:27:17+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Merging post ID 80.
+2018-03-15T13:27:17+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 80
+    [post_content] => Shipping Surcharge AK/HI/PR/GU/VI/Canada
+    [post_excerpt] => Shipping Surcharge
+    [post_title] => Surcharge
+)
+
+2018-03-15T13:27:17+00:00 DEBUG > Finished merging post ID 80.
+2018-03-15T13:27:17+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinCreamDISC
+2018-03-15T13:27:17+00:00 DEBUG > Inserted - post ID is 81.
+2018-03-15T13:27:17+00:00 DEBUG > Finished importing post ID 81.
+2018-03-15T13:27:17+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinCamelDISC
+2018-03-15T13:27:17+00:00 DEBUG > Inserted - post ID is 82.
+2018-03-15T13:27:17+00:00 DEBUG > Finished importing post ID 82.
+2018-03-15T13:27:17+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinBrownDISC
+2018-03-15T13:27:17+00:00 DEBUG > Inserted - post ID is 83.
+2018-03-15T13:27:17+00:00 DEBUG > Finished importing post ID 83.
+2018-03-15T13:27:17+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinBlueDISC
+2018-03-15T13:27:17+00:00 DEBUG > Inserted - post ID is 84.
+2018-03-15T13:27:17+00:00 DEBUG > Finished importing post ID 84.
+2018-03-15T13:27:17+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinBurgundyDISC
+2018-03-15T13:27:17+00:00 DEBUG > Inserted - post ID is 85.
+2018-03-15T13:27:17+00:00 DEBUG > Finished importing post ID 85.
+2018-03-15T13:27:17+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinWhiteDISC
+2018-03-15T13:27:17+00:00 DEBUG > Inserted - post ID is 86.
+2018-03-15T13:27:17+00:00 DEBUG > Finished importing post ID 86.
+2018-03-15T13:27:17+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:17+00:00 DEBUG > Inserting MainOfferFreeShippingTwinLavenderDISC
+2018-03-15T13:27:18+00:00 DEBUG > Inserted - post ID is 87.
+2018-03-15T13:27:18+00:00 DEBUG > Finished importing post ID 87.
+2018-03-15T13:27:18+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:18+00:00 DEBUG > Inserting MainOfferFreeShippingTwinDarkGrayDISC
+2018-03-15T13:27:18+00:00 DEBUG > Inserted - post ID is 88.
+2018-03-15T13:27:18+00:00 DEBUG > Finished importing post ID 88.
+2018-03-15T13:27:18+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:18+00:00 DEBUG > Inserting MainOfferFreeShippingTwinSageGreenDISC
+2018-03-15T13:27:18+00:00 DEBUG > Inserted - post ID is 89.
+2018-03-15T13:27:18+00:00 DEBUG > Finished importing post ID 89.
+2018-03-15T13:27:18+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:18+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:18+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:18+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:18+00:00 DEBUG ---
+2018-03-15T13:27:18+00:00 DEBUG Processing products.
+2018-03-15T13:27:18+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:18+00:00 DEBUG > Inserting MainOfferFreeShippingTwinSandShellDISC
+2018-03-15T13:27:18+00:00 DEBUG > Inserted - post ID is 90.
+2018-03-15T13:27:18+00:00 DEBUG > Finished importing post ID 90.
+2018-03-15T13:27:18+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:18+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLCreamDISC
+2018-03-15T13:27:18+00:00 DEBUG > Inserted - post ID is 91.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 91.
+2018-03-15T13:27:19+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLCamelDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 92.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 92.
+2018-03-15T13:27:19+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLBrownDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 93.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 93.
+2018-03-15T13:27:19+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLBlueDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 94.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 94.
+2018-03-15T13:27:19+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLBurgundyDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 95.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 95.
+2018-03-15T13:27:19+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLWhiteDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 96.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 96.
+2018-03-15T13:27:19+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLLavenderDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 97.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 97.
+2018-03-15T13:27:19+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLDarkGrayDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 98.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 98.
+2018-03-15T13:27:19+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:19+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLSageGreenDISC
+2018-03-15T13:27:19+00:00 DEBUG > Inserted - post ID is 99.
+2018-03-15T13:27:19+00:00 DEBUG > Finished importing post ID 99.
+2018-03-15T13:27:19+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:20+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:20+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:20+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:20+00:00 DEBUG ---
+2018-03-15T13:27:20+00:00 DEBUG Processing products.
+2018-03-15T13:27:20+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingTwinXLSandShellDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 100.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 100.
+2018-03-15T13:27:20+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullCreamDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 101.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 101.
+2018-03-15T13:27:20+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullCamelDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 102.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 102.
+2018-03-15T13:27:20+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullBrownDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 103.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 103.
+2018-03-15T13:27:20+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullBlueDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 104.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 104.
+2018-03-15T13:27:20+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullBurgundyDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 105.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 105.
+2018-03-15T13:27:20+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullWhiteDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 106.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 106.
+2018-03-15T13:27:20+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullLavenderDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 107.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 107.
+2018-03-15T13:27:20+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullDarkGrayDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 108.
+2018-03-15T13:27:20+00:00 DEBUG > Finished importing post ID 108.
+2018-03-15T13:27:20+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:20+00:00 DEBUG > Inserting MainOfferFreeShippingFullSageGreenDISC
+2018-03-15T13:27:20+00:00 DEBUG > Inserted - post ID is 109.
+2018-03-15T13:27:21+00:00 DEBUG > Finished importing post ID 109.
+2018-03-15T13:27:21+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:21+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:21+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:21+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:21+00:00 DEBUG ---
+2018-03-15T13:27:21+00:00 DEBUG Processing products.
+2018-03-15T13:27:21+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:21+00:00 DEBUG > Inserting MainOfferFreeShippingFullSandShellDISC
+2018-03-15T13:27:21+00:00 DEBUG > Inserted - post ID is 110.
+2018-03-15T13:27:21+00:00 DEBUG > Finished importing post ID 110.
+2018-03-15T13:27:21+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:21+00:00 DEBUG > Inserting MainOfferFreeShippingQueenCreamDISC
+2018-03-15T13:27:21+00:00 DEBUG > Inserted - post ID is 111.
+2018-03-15T13:27:21+00:00 DEBUG > Finished importing post ID 111.
+2018-03-15T13:27:21+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:21+00:00 DEBUG > Inserting MainOfferFreeShippingQueenCamelDISC
+2018-03-15T13:27:21+00:00 DEBUG > Inserted - post ID is 112.
+2018-03-15T13:27:21+00:00 DEBUG > Finished importing post ID 112.
+2018-03-15T13:27:21+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:21+00:00 DEBUG > Inserting MainOfferFreeShippingQueenBrownDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 113.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 113.
+2018-03-15T13:27:22+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:22+00:00 DEBUG > Inserting MainOfferFreeShippingQueenBlueDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 114.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 114.
+2018-03-15T13:27:22+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:22+00:00 DEBUG > Inserting MainOfferFreeShippingQueenBurgundyDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 115.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 115.
+2018-03-15T13:27:22+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:22+00:00 DEBUG > Inserting MainOfferFreeShippingQueenWhiteDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 116.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 116.
+2018-03-15T13:27:22+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:22+00:00 DEBUG > Inserting MainOfferFreeShippingQueenLavenderDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 117.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 117.
+2018-03-15T13:27:22+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:22+00:00 DEBUG > Inserting MainOfferFreeShippingQueenDarkGrayDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 118.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 118.
+2018-03-15T13:27:22+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:22+00:00 DEBUG > Inserting MainOfferFreeShippingQueenSageGreenDISC
+2018-03-15T13:27:22+00:00 DEBUG > Inserted - post ID is 119.
+2018-03-15T13:27:22+00:00 DEBUG > Finished importing post ID 119.
+2018-03-15T13:27:22+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:23+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:23+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:23+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:23+00:00 DEBUG ---
+2018-03-15T13:27:23+00:00 DEBUG Processing products.
+2018-03-15T13:27:23+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingQueenSandShellDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 120.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 120.
+2018-03-15T13:27:23+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingCreamDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 121.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 121.
+2018-03-15T13:27:23+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingCamelDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 122.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 122.
+2018-03-15T13:27:23+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingBrownDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 123.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 123.
+2018-03-15T13:27:23+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingBlueDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 124.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 124.
+2018-03-15T13:27:23+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingBurgundyDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 125.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 125.
+2018-03-15T13:27:23+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingWhiteDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 126.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 126.
+2018-03-15T13:27:23+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Inserting MainOfferFreeShippingKingLavenderDISC
+2018-03-15T13:27:23+00:00 DEBUG > Inserted - post ID is 127.
+2018-03-15T13:27:23+00:00 DEBUG > Finished importing post ID 127.
+2018-03-15T13:27:23+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Merging post ID 128.
+2018-03-15T13:27:23+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 128
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” DARK GRAY - 50% OFF
+    [post_excerpt] => King - $34.97
+    [post_title] => MainOfferFreeShippingKingDarkGrayDISC
+)
+
+2018-03-15T13:27:23+00:00 DEBUG > Finished merging post ID 128.
+2018-03-15T13:27:23+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:23+00:00 DEBUG > Merging post ID 129.
+2018-03-15T13:27:23+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 129
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” SAGE GREEN - 50% OFF
+    [post_excerpt] => King - $34.97
+    [post_title] => MainOfferFreeShippingKingSageGreenDISC
+)
+
+2018-03-15T13:27:23+00:00 DEBUG > Finished merging post ID 129.
+2018-03-15T13:27:23+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:24+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:24+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:24+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:24+00:00 DEBUG ---
+2018-03-15T13:27:24+00:00 DEBUG Processing products.
+2018-03-15T13:27:24+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 130.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 130
+    [post_content] => King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108”, (1) fitted sheet W-78” x L-80” x D-18”, (2) pillow cases 20” x 40” SAND SHELL - 50% OFF
+    [post_excerpt] => King - $34.97
+    [post_title] => MainOfferFreeShippingKingSandShellDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 130.
+2018-03-15T13:27:24+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 131.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 131
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” CREAM - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaCreamDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 131.
+2018-03-15T13:27:24+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 132.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 132
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” CAMEL - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaCamelDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 132.
+2018-03-15T13:27:24+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 133.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 133
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” BROWN - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaBrownDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 133.
+2018-03-15T13:27:24+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 134.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 134
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” BLUE - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaBlueDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 134.
+2018-03-15T13:27:24+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 135.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 135
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” BURGUNDY - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaBurgundyDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 135.
+2018-03-15T13:27:24+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 136.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 136
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” WHITE - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaWhiteDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 136.
+2018-03-15T13:27:24+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 137.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 137
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” LAVENDER - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaLavenderDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 137.
+2018-03-15T13:27:24+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Inserting MainOfferFreeShippingCaDarkGrayDISC
+2018-03-15T13:27:24+00:00 DEBUG > Inserted - post ID is 138.
+2018-03-15T13:27:24+00:00 DEBUG > Finished importing post ID 138.
+2018-03-15T13:27:24+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:24+00:00 DEBUG > Merging post ID 139.
+2018-03-15T13:27:24+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 139
+    [post_content] => CA -King Microfiber Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110”, (1) fitted sheet W-72” x L-84” x D-18”, (2) pillow cases 20” x 40” SAGE GREEN - 50% OFF
+    [post_excerpt] => California King - $39.97
+    [post_title] => MainOfferFreeShippingCaSageGreenDISC
+)
+
+2018-03-15T13:27:24+00:00 DEBUG > Finished merging post ID 139.
+2018-03-15T13:27:24+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:25+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:25+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:25+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:25+00:00 DEBUG ---
+2018-03-15T13:27:25+00:00 DEBUG Processing products.
+2018-03-15T13:27:25+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting MainOfferFreeShippingCaSandShellDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 140.
+2018-03-15T13:27:25+00:00 DEBUG > Finished importing post ID 140.
+2018-03-15T13:27:25+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting BlanketTwin/TwinXLPinkLeopardDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 141.
+2018-03-15T13:27:25+00:00 DEBUG > Finished importing post ID 141.
+2018-03-15T13:27:25+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting BlanketFullPinkLeopardDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 142.
+2018-03-15T13:27:25+00:00 DEBUG > Finished importing post ID 142.
+2018-03-15T13:27:25+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting BlanketQueenPinkLeopardDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 143.
+2018-03-15T13:27:25+00:00 DEBUG > Finished importing post ID 143.
+2018-03-15T13:27:25+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting BlanketKingPinkLeopardDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 144.
+2018-03-15T13:27:25+00:00 DEBUG > Finished importing post ID 144.
+2018-03-15T13:27:25+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting BlanketCAKingPinkLeopardDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 145.
+2018-03-15T13:27:25+00:00 DEBUG > Finished importing post ID 145.
+2018-03-15T13:27:25+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:25+00:00 DEBUG > Inserting BlanketTwin/TwinXLSandShellDISC
+2018-03-15T13:27:25+00:00 DEBUG > Inserted - post ID is 146.
+2018-03-15T13:27:26+00:00 DEBUG > Finished importing post ID 146.
+2018-03-15T13:27:26+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:26+00:00 DEBUG > Inserting BlanketFullSandShellDISC
+2018-03-15T13:27:26+00:00 DEBUG > Inserted - post ID is 147.
+2018-03-15T13:27:26+00:00 DEBUG > Finished importing post ID 147.
+2018-03-15T13:27:26+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:26+00:00 DEBUG > Inserting BlanketQueenSandShellDISC
+2018-03-15T13:27:26+00:00 DEBUG > Inserted - post ID is 148.
+2018-03-15T13:27:26+00:00 DEBUG > Finished importing post ID 148.
+2018-03-15T13:27:26+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:26+00:00 DEBUG > Inserting BlanketKingSandShellDISC
+2018-03-15T13:27:26+00:00 DEBUG > Inserted - post ID is 149.
+2018-03-15T13:27:26+00:00 DEBUG > Finished importing post ID 149.
+2018-03-15T13:27:26+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:26+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:26+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:26+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:26+00:00 DEBUG ---
+2018-03-15T13:27:26+00:00 DEBUG Processing products.
+2018-03-15T13:27:26+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:26+00:00 DEBUG > Inserting BlanketCAKingSandShellDISC
+2018-03-15T13:27:26+00:00 DEBUG > Inserted - post ID is 150.
+2018-03-15T13:27:26+00:00 DEBUG > Finished importing post ID 150.
+2018-03-15T13:27:26+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:26+00:00 DEBUG > Inserting BlanketTwin/TwinXLBlueDISC
+2018-03-15T13:27:27+00:00 DEBUG > Inserted - post ID is 151.
+2018-03-15T13:27:27+00:00 DEBUG > Finished importing post ID 151.
+2018-03-15T13:27:27+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Inserting BlanketFullBlueDISC
+2018-03-15T13:27:27+00:00 DEBUG > Inserted - post ID is 152.
+2018-03-15T13:27:27+00:00 DEBUG > Finished importing post ID 152.
+2018-03-15T13:27:27+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Inserting BlanketQueenBlueDISC
+2018-03-15T13:27:27+00:00 DEBUG > Inserted - post ID is 153.
+2018-03-15T13:27:27+00:00 DEBUG > Finished importing post ID 153.
+2018-03-15T13:27:27+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Inserting BlanketKingBlueDISC
+2018-03-15T13:27:27+00:00 DEBUG > Inserted - post ID is 154.
+2018-03-15T13:27:27+00:00 DEBUG > Finished importing post ID 154.
+2018-03-15T13:27:27+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Inserting BlanketCAKingBlueDISC
+2018-03-15T13:27:27+00:00 DEBUG > Inserted - post ID is 155.
+2018-03-15T13:27:27+00:00 DEBUG > Finished importing post ID 155.
+2018-03-15T13:27:27+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Merging post ID 156.
+2018-03-15T13:27:27+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 156
+    [post_content] => Chamber Pillow Standard/Queen Size - Medium 50% White Duck Feather & 50% White Duck Down
+    [post_excerpt] => Standard/Queen - Medium - $89.95
+    [post_title] =>  ChamberPillowQueenMD
+)
+
+2018-03-15T13:27:27+00:00 DEBUG > Finished merging post ID 156.
+2018-03-15T13:27:27+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Merging post ID 157.
+2018-03-15T13:27:27+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 157
+    [post_content] => Chamber Pillow King Size - Medium 50% White Duck Feather & 50% White Duck Down
+    [post_excerpt] => King - Medium - $109.95
+    [post_title] =>  ChamberPillowKingMD
+)
+
+2018-03-15T13:27:27+00:00 DEBUG > Finished merging post ID 157.
+2018-03-15T13:27:27+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Merging post ID 158.
+2018-03-15T13:27:27+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 158
+    [post_content] => Chamber Pillow Standard/Queen Size - Firm 50% White Duck Feather & 50% White Duck Down
+    [post_excerpt] => Standard/Queen - Firm - $89.95
+    [post_title] =>  ChamberPillowQueenFRM
+)
+
+2018-03-15T13:27:27+00:00 DEBUG > Finished merging post ID 158.
+2018-03-15T13:27:27+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:27+00:00 DEBUG > Merging post ID 159.
+2018-03-15T13:27:27+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 159
+    [post_content] => Chamber Pillow King Size - Firm 50% White Duck Feather & 50% White Duck Down
+    [post_excerpt] => King - Firm - $109.95
+    [post_title] =>  ChamberPillowKingFRM
+)
+
+2018-03-15T13:27:27+00:00 DEBUG > Finished merging post ID 159.
+2018-03-15T13:27:27+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:28+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:28+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:28+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:28+00:00 DEBUG ---
+2018-03-15T13:27:28+00:00 DEBUG Processing products.
+2018-03-15T13:27:28+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 160.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 160
+    [post_content] => Pillow Protector with Zipper Standard/Queen Size 300t/c 100% Cotton ( set of 2)
+    [post_excerpt] => Standard/Queen - $24.95
+    [post_title] => PillowProtectorQueen
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 160.
+2018-03-15T13:27:28+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 161.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 161
+    [post_content] => Pillow Protector with Zipper King Size 300t/c 100% Cotton ( set of 2)
+    [post_excerpt] => King - $34.95
+    [post_title] => PillowProtectorKing
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 161.
+2018-03-15T13:27:28+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 162.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 162
+    [post_content] => Pillow Case with Zipper Standard/Queen Leopard Print 100% Plush Polyester
+    [post_excerpt] => Standard/Queen - $24.95
+    [post_title] => PillowCaseQueen
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 162.
+2018-03-15T13:27:28+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 163.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 163
+    [post_content] => Throw Pillow Size Standard Leopard Print 100% Plush Polyester 
+    [post_excerpt] => Standard/20" x 26" - $29.95
+    [post_title] => ThrowPillowStandard
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 163.
+2018-03-15T13:27:28+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 164.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 164
+    [post_content] => Throw Pillow Size Queen Leopard Print 100% Plush Polyester
+    [post_excerpt] => Queen/20" x 30" - $34.95
+    [post_title] => ThrowPillowQueen
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 164.
+2018-03-15T13:27:28+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 165.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 165
+    [post_content] => Throw Pillow Size King Leopard Print 100% Plush Polyester
+    [post_excerpt] => King/20" x 36" - $39.95
+    [post_title] => ThrowPillowKing
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 165.
+2018-03-15T13:27:28+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Inserting  ChamberPillowQueenMDDISC
+2018-03-15T13:27:28+00:00 DEBUG > Inserted - post ID is 166.
+2018-03-15T13:27:28+00:00 DEBUG > Finished importing post ID 166.
+2018-03-15T13:27:28+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Inserting  ChamberPillowKingMDDISC
+2018-03-15T13:27:28+00:00 DEBUG > Inserted - post ID is 167.
+2018-03-15T13:27:28+00:00 DEBUG > Finished importing post ID 167.
+2018-03-15T13:27:28+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Merging post ID 168.
+2018-03-15T13:27:28+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 168
+    [post_content] => Chamber Pillow Standard/Queen Size - Firm 50% White Duck Feather & 50% White Duck Down - 50% OFF
+    [post_excerpt] => Standard/Queen - Firm - $44.97
+    [post_title] =>  ChamberPillowQueenFRMDISC
+)
+
+2018-03-15T13:27:28+00:00 DEBUG > Finished merging post ID 168.
+2018-03-15T13:27:28+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:28+00:00 DEBUG > Inserting  ChamberPillowKingFRMDISC
+2018-03-15T13:27:28+00:00 DEBUG > Inserted - post ID is 169.
+2018-03-15T13:27:28+00:00 DEBUG > Finished importing post ID 169.
+2018-03-15T13:27:28+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:29+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:29+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:29+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:29+00:00 DEBUG ---
+2018-03-15T13:27:29+00:00 DEBUG Processing products.
+2018-03-15T13:27:29+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:29+00:00 DEBUG > Inserting PillowProtectorQueenDISC
+2018-03-15T13:27:29+00:00 DEBUG > Inserted - post ID is 170.
+2018-03-15T13:27:29+00:00 DEBUG > Finished importing post ID 170.
+2018-03-15T13:27:29+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:29+00:00 DEBUG > Inserting PillowProtectorKingDISC
+2018-03-15T13:27:29+00:00 DEBUG > Inserted - post ID is 171.
+2018-03-15T13:27:29+00:00 DEBUG > Finished importing post ID 171.
+2018-03-15T13:27:29+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:29+00:00 DEBUG > Inserting PillowCaseQueenDISC
+2018-03-15T13:27:29+00:00 DEBUG > Inserted - post ID is 172.
+2018-03-15T13:27:29+00:00 DEBUG > Finished importing post ID 172.
+2018-03-15T13:27:29+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:29+00:00 DEBUG > Inserting ThrowPillowStandardDISC
+2018-03-15T13:27:29+00:00 DEBUG > Inserted - post ID is 173.
+2018-03-15T13:27:29+00:00 DEBUG > Finished importing post ID 173.
+2018-03-15T13:27:29+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:29+00:00 DEBUG > Inserting ThrowPillowQueenDISC
+2018-03-15T13:27:29+00:00 DEBUG > Inserted - post ID is 174.
+2018-03-15T13:27:29+00:00 DEBUG > Finished importing post ID 174.
+2018-03-15T13:27:29+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:29+00:00 DEBUG > Inserting ThrowPillowKingDISC
+2018-03-15T13:27:30+00:00 DEBUG > Inserted - post ID is 175.
+2018-03-15T13:27:30+00:00 DEBUG > Finished importing post ID 175.
+2018-03-15T13:27:30+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:30+00:00 DEBUG > Merging post ID 176.
+2018-03-15T13:27:30+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 176
+    [post_content] => Twin 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-75" x D-16”, (2) pillowcases 20” x 32” WHITE
+    [post_excerpt] => Twin - $124.95
+    [post_title] => MainOfferTwinWhite
+)
+
+2018-03-15T13:27:30+00:00 DEBUG > Finished merging post ID 176.
+2018-03-15T13:27:30+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:30+00:00 DEBUG > Merging post ID 177.
+2018-03-15T13:27:30+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 177
+    [post_content] => TwinXL 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-80" x D-16”, (2) pillowcases 20” x 32” WHITE
+    [post_excerpt] => TwinXL - $129.95
+    [post_title] => MainOfferTwinXLWhite
+)
+
+2018-03-15T13:27:30+00:00 DEBUG > Finished merging post ID 177.
+2018-03-15T13:27:30+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:30+00:00 DEBUG > Merging post ID 178.
+2018-03-15T13:27:30+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 178
+    [post_content] => King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108” (1) fitted sheet W-78" x L-80" x D-18", (2) pillowcases 20” x 40” WHITE
+    [post_excerpt] => King - $179.95
+    [post_title] => MainOfferKingWhite
+)
+
+2018-03-15T13:27:30+00:00 DEBUG > Finished merging post ID 178.
+2018-03-15T13:27:30+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:30+00:00 DEBUG > Merging post ID 179.
+2018-03-15T13:27:30+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 179
+    [post_content] => California King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110” (1) fitted sheet W-72" x L-84" x D-18", (2) pillowcases 20” x 40” WHITE
+    [post_excerpt] => CA King - $209.95
+    [post_title] => MainOfferCaliKingWhite
+)
+
+2018-03-15T13:27:30+00:00 DEBUG > Finished merging post ID 179.
+2018-03-15T13:27:30+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:30+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:30+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:30+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:30+00:00 DEBUG ---
+2018-03-15T13:27:30+00:00 DEBUG Processing products.
+2018-03-15T13:27:30+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:30+00:00 DEBUG > Merging post ID 180.
+2018-03-15T13:27:30+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 180
+    [post_content] => Split California 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-84”x D-16”, (2) pillowcases 20” x 40” WHITE
+    [post_excerpt] => Split California - $209.95
+    [post_title] => MainOfferSltCalWhite
+)
+
+2018-03-15T13:27:30+00:00 DEBUG > Finished merging post ID 180.
+2018-03-15T13:27:30+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:30+00:00 DEBUG > Merging post ID 181.
+2018-03-15T13:27:30+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 181
+    [post_content] => Split King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-80” X D-16”, (2) pillowcases 20” x 40” WHITE
+    [post_excerpt] => Split King - $209.95
+    [post_title] => MainOfferSltKingWhite
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 181.
+2018-03-15T13:27:31+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 182.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 182
+    [post_content] => Full 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98” (1) fitted sheet W-54” x L-75" x D-18”, (2) pillowcases 20” x 30” WHITE
+    [post_excerpt] => Full - $134.95
+    [post_title] => MainOfferFullWhite
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 182.
+2018-03-15T13:27:31+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 183.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 183
+    [post_content] => Queen 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108” (1) fitted sheet W-60” x L-80” x D-18”, (2) pillowcases 20” x 30” WHITE 
+    [post_excerpt] => Queen - $159.95
+    [post_title] => MainOfferQueenWhite
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 183.
+2018-03-15T13:27:31+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 184.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 184
+    [post_content] => Twin 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-75" x D-16”, (2) pillowcases 20” x 32” SAND SHELL
+    [post_excerpt] => Twin - $124.95
+    [post_title] => MainOffeTwinSandshell
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 184.
+2018-03-15T13:27:31+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 185.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 185
+    [post_content] => TwinXL 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-80" x D-16”, (2) pillowcases 20” x 32” SAND SHELL
+    [post_excerpt] => TwinXL - $129.95
+    [post_title] => MainOfferTwinXLSandshell
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 185.
+2018-03-15T13:27:31+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 186.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 186
+    [post_content] => Full 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98” (1) fitted sheet W-54” x L-75" x D-18”, (2) pillowcases 20” x 30” SAND SHELL
+    [post_excerpt] => Full - $134.95
+    [post_title] => MainOfferFullSandshell
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 186.
+2018-03-15T13:27:31+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 187.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 187
+    [post_content] => Queen 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108” (1) fitted sheet W-60” x L-80” x D-18”, (2) pillowcases 20” x 30” SAND SHELL 
+    [post_excerpt] => Queen - $159.95
+    [post_title] => MainOfferQueenSandshell
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 187.
+2018-03-15T13:27:31+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 188.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 188
+    [post_content] => King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108” (1) fitted sheet W-78" x L-80" x D-18", (2) pillowcases 20” x 40” SAND SHELL
+    [post_excerpt] => King - $179.95
+    [post_title] => MainOfferKingSandshell
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 188.
+2018-03-15T13:27:31+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 189.
+2018-03-15T13:27:31+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 189
+    [post_content] => California King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110” (1) fitted sheet W-72" x L-84" x D-18", (2) pillowcases 20” x 40” SAND SHELL
+    [post_excerpt] => CA King - $209.95
+    [post_title] => MainOfferCaliKingSandshell
+)
+
+2018-03-15T13:27:31+00:00 DEBUG > Finished merging post ID 189.
+2018-03-15T13:27:31+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:31+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:31+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:31+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:31+00:00 DEBUG ---
+2018-03-15T13:27:31+00:00 DEBUG Processing products.
+2018-03-15T13:27:31+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:31+00:00 DEBUG > Merging post ID 190.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 190
+    [post_content] => Split California 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-84”x D-16”, (2) pillowcases 20” x 40” SAND SHELL
+    [post_excerpt] => Split California - $209.95
+    [post_title] => MainOfferSltCalSandshell
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 190.
+2018-03-15T13:27:32+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 191.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 191
+    [post_content] => Split King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-80” X D-16”, (2) pillowcases 20” x 40” SAND SHELL
+    [post_excerpt] => Split King - $209.95
+    [post_title] => MainOfferSltKingSandshell
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 191.
+2018-03-15T13:27:32+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > &#8220;192&#8221; is not a product.
+2018-03-15T13:27:32+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 193.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 193
+    [post_content] => TwinXL 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-80" x D-16”, (2) pillowcases 20” x 32” ILLUSION BLUE
+    [post_excerpt] => TwinXL - $129.95
+    [post_title] => MainOfferTwinXLILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 193.
+2018-03-15T13:27:32+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 194.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 194
+    [post_content] => Full 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98” (1) fitted sheet W-54” x L-75" x D-18”, (2) pillowcases 20” x 30” ILLUSION BLUE
+    [post_excerpt] => Full - $134.95
+    [post_title] => MainOfferFullILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 194.
+2018-03-15T13:27:32+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 195.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 195
+    [post_content] => Queen 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-94” x L-108” (1) fitted sheet W-60” x L-80” x D-18”, (2) pillowcases 20” x 30” ILLUSION BLUE
+    [post_excerpt] => Queen - $159.95
+    [post_title] => MainOfferQueenILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 195.
+2018-03-15T13:27:32+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 196.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 196
+    [post_content] => King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108” (1) fitted sheet W-78" x L-80" x D-18", (2) pillowcases 20” x 40” ILLUSION BLUE
+    [post_excerpt] => King - $179.95
+    [post_title] => MainOfferKingILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 196.
+2018-03-15T13:27:32+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 197.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 197
+    [post_content] => California King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-108” x L-110” (1) fitted sheet W-72" x L-84" x D-18", (2) pillowcases 20” x 40” ILLUSION BLUE
+    [post_excerpt] => CA King - $209.95
+    [post_title] => MainOfferCaliKingILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 197.
+2018-03-15T13:27:32+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 198.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 198
+    [post_content] => Split California 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-84”x D-16”, (2) pillowcases 20” x 40” ILLUSION BLUE
+    [post_excerpt] => Split California - $209.95
+    [post_title] => MainOfferSltCaLILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 198.
+2018-03-15T13:27:32+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:32+00:00 DEBUG > Merging post ID 199.
+2018-03-15T13:27:32+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 199
+    [post_content] => Split King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-80” X D-16”, (2) pillowcases 20” x 40” ILLUSION BLUE
+    [post_excerpt] => Split King - $209.95
+    [post_title] => MainOfferSltKingILLBlue
+)
+
+2018-03-15T13:27:32+00:00 DEBUG > Finished merging post ID 199.
+2018-03-15T13:27:32+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:33+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:33+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:33+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:33+00:00 DEBUG ---
+2018-03-15T13:27:33+00:00 DEBUG Processing products.
+2018-03-15T13:27:33+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferTwinWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 200.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 200.
+2018-03-15T13:27:33+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferTwinXLWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 201.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 201.
+2018-03-15T13:27:33+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferFullWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 202.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 202.
+2018-03-15T13:27:33+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferQueenWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 203.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 203.
+2018-03-15T13:27:33+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferKingWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 204.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 204.
+2018-03-15T13:27:33+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferCaliKingWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 205.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 205.
+2018-03-15T13:27:33+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferSltCalWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 206.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 206.
+2018-03-15T13:27:33+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferSltKingWhiteDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 207.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 207.
+2018-03-15T13:27:33+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferFullSandshellDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 208.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 208.
+2018-03-15T13:27:33+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:33+00:00 DEBUG > Inserting MainOfferQueenSandshellDISC
+2018-03-15T13:27:33+00:00 DEBUG > Inserted - post ID is 209.
+2018-03-15T13:27:33+00:00 DEBUG > Finished importing post ID 209.
+2018-03-15T13:27:33+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:34+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:34+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:34+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:34+00:00 DEBUG ---
+2018-03-15T13:27:34+00:00 DEBUG Processing products.
+2018-03-15T13:27:34+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferKingSandshellDISC
+2018-03-15T13:27:34+00:00 DEBUG > Inserted - post ID is 210.
+2018-03-15T13:27:34+00:00 DEBUG > Finished importing post ID 210.
+2018-03-15T13:27:34+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferCaliKingSandshellDISC
+2018-03-15T13:27:34+00:00 DEBUG > Inserted - post ID is 211.
+2018-03-15T13:27:34+00:00 DEBUG > Finished importing post ID 211.
+2018-03-15T13:27:34+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferSltCalSandshellDISC
+2018-03-15T13:27:34+00:00 DEBUG > Inserted - post ID is 212.
+2018-03-15T13:27:34+00:00 DEBUG > Finished importing post ID 212.
+2018-03-15T13:27:34+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Merging post ID 213.
+2018-03-15T13:27:34+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 213
+    [post_content] => Split King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-110” x L-106” (2) fitted sheets W-39” x L-80” X D-16”, (2) pillowcases 20” x 40” SAND SHELL - 50% OFF
+    [post_excerpt] => Split King - $104.97
+    [post_title] => MainOfferSltKingSandshellDISC
+)
+
+2018-03-15T13:27:34+00:00 DEBUG > Finished merging post ID 213.
+2018-03-15T13:27:34+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferTwinSandshellDISC
+2018-03-15T13:27:34+00:00 DEBUG > Inserted - post ID is 214.
+2018-03-15T13:27:34+00:00 DEBUG > Finished importing post ID 214.
+2018-03-15T13:27:34+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferTwinXLSandshellDISC
+2018-03-15T13:27:34+00:00 DEBUG > Inserted - post ID is 215.
+2018-03-15T13:27:34+00:00 DEBUG > Finished importing post ID 215.
+2018-03-15T13:27:34+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Merging post ID 216.
+2018-03-15T13:27:34+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 216
+    [post_content] => Full 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-88” x L-98” (1) fitted sheet W-54” x L-75" x D-18”, (2) pillowcases 20” x 30” ILLUSION BLUE - 50% OFF
+    [post_excerpt] => Full - $67.47
+    [post_title] => MainOfferFuLLILLBlueDISC
+)
+
+2018-03-15T13:27:34+00:00 DEBUG > Finished merging post ID 216.
+2018-03-15T13:27:34+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferQueenILLBlueDISC
+2018-03-15T13:27:34+00:00 DEBUG > Inserted - post ID is 217.
+2018-03-15T13:27:34+00:00 DEBUG > Finished importing post ID 217.
+2018-03-15T13:27:34+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Merging post ID 218.
+2018-03-15T13:27:34+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 218
+    [post_content] => King 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-112” x L-108” (1) fitted sheet W-78" x L-80" x D-18", (2) pillowcases 20” x 40” ILLUSION BLUE - 50% OFF
+    [post_excerpt] => King - $89.97
+    [post_title] => MainOfferKingILLBlueDISC
+)
+
+2018-03-15T13:27:34+00:00 DEBUG > Finished merging post ID 218.
+2018-03-15T13:27:34+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:34+00:00 DEBUG > Inserting MainOfferCaliKingILLBlueDISC
+2018-03-15T13:27:35+00:00 DEBUG > Inserted - post ID is 219.
+2018-03-15T13:27:35+00:00 DEBUG > Finished importing post ID 219.
+2018-03-15T13:27:35+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:35+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:35+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:35+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:35+00:00 DEBUG ---
+2018-03-15T13:27:35+00:00 DEBUG Processing products.
+2018-03-15T13:27:35+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:35+00:00 DEBUG > Inserting MainOfferSltCaLILLBlueDISC
+2018-03-15T13:27:35+00:00 DEBUG > Inserted - post ID is 220.
+2018-03-15T13:27:35+00:00 DEBUG > Finished importing post ID 220.
+2018-03-15T13:27:35+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:35+00:00 DEBUG > Inserting MainOfferSltKingILLBlueDISC
+2018-03-15T13:27:35+00:00 DEBUG > Inserted - post ID is 221.
+2018-03-15T13:27:35+00:00 DEBUG > Finished importing post ID 221.
+2018-03-15T13:27:35+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:35+00:00 DEBUG > Merging post ID 222.
+2018-03-15T13:27:35+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 222
+    [post_content] => Twin 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-75" x D-16”, (2) pillowcases 20” x 32” ILLUSION BLUE - 50% OFF
+    [post_excerpt] => Twin - $62.47
+    [post_title] => MainOfferTwinILLBlueDISC
+)
+
+2018-03-15T13:27:35+00:00 DEBUG > Finished merging post ID 222.
+2018-03-15T13:27:35+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:35+00:00 DEBUG > Merging post ID 223.
+2018-03-15T13:27:35+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 223
+    [post_content] => TwinXL 100% Cotton Sheet Set includes (1) Patented semi-fitted top sheet W-68” x L-98” (1) fitted sheet W-39” x L-80" x D-16”, (2) pillowcases 20” x 32” ILLUSION BLUE - 50% OFF
+    [post_excerpt] => TwinXL - $64.97
+    [post_title] => MainOfferTwinXLILLBlueDISC
+)
+
+2018-03-15T13:27:35+00:00 DEBUG > Finished merging post ID 223.
+2018-03-15T13:27:35+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:35+00:00 DEBUG > Merging post ID 224.
+2018-03-15T13:27:36+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 224
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Twin/TwinXL W-68” x L-98" DARK GRAY
+    [post_excerpt] => Twin/TwinXL - $79.95
+    [post_title] => BlanketTwin/TwinXLDarkGray
+)
+
+2018-03-15T13:27:36+00:00 DEBUG > Finished merging post ID 224.
+2018-03-15T13:27:36+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:36+00:00 DEBUG > Merging post ID 225.
+2018-03-15T13:27:36+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 225
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Full W-88” x L-98” DARK GRAY
+    [post_excerpt] => Full - $79.95
+    [post_title] => BlanketFullDarkGray
+)
+
+2018-03-15T13:27:36+00:00 DEBUG > Finished merging post ID 225.
+2018-03-15T13:27:36+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:36+00:00 DEBUG > Merging post ID 226.
+2018-03-15T13:27:36+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 226
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Queen W-94” x L-108” DARK GRAY
+    [post_excerpt] => Queen - $79.95
+    [post_title] => BlanketQueenDarkGray
+)
+
+2018-03-15T13:27:36+00:00 DEBUG > Finished merging post ID 226.
+2018-03-15T13:27:36+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:36+00:00 DEBUG > Merging post ID 227.
+2018-03-15T13:27:36+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 227
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket King W-112” x L-108” DARK GRAY
+    [post_excerpt] => King - $89.95
+    [post_title] => BlanketKingDarkGray
+)
+
+2018-03-15T13:27:36+00:00 DEBUG > Finished merging post ID 227.
+2018-03-15T13:27:36+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:36+00:00 DEBUG > Merging post ID 228.
+2018-03-15T13:27:36+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 228
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket CA King W-108” x L-110” DARK GRAY
+    [post_excerpt] => CA King - $89.95
+    [post_title] => BlanketCAKingDarkGray
+)
+
+2018-03-15T13:27:36+00:00 DEBUG > Finished merging post ID 228.
+2018-03-15T13:27:36+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:36+00:00 DEBUG > Inserting BlanketTwin/TwinXLDarkGrayDISC
+2018-03-15T13:27:36+00:00 DEBUG > Inserted - post ID is 229.
+2018-03-15T13:27:36+00:00 DEBUG > Finished importing post ID 229.
+2018-03-15T13:27:36+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:36+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:36+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:36+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:36+00:00 DEBUG ---
+2018-03-15T13:27:36+00:00 DEBUG Processing products.
+2018-03-15T13:27:36+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:36+00:00 DEBUG > Inserting BlanketFullDarkGraydDISC
+2018-03-15T13:27:37+00:00 DEBUG > Inserted - post ID is 230.
+2018-03-15T13:27:37+00:00 DEBUG > Finished importing post ID 230.
+2018-03-15T13:27:37+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Inserting BlanketQueenDarkGrayDISC
+2018-03-15T13:27:37+00:00 DEBUG > Inserted - post ID is 231.
+2018-03-15T13:27:37+00:00 DEBUG > Finished importing post ID 231.
+2018-03-15T13:27:37+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Inserting BlanketKingDarkGrayDISC
+2018-03-15T13:27:37+00:00 DEBUG > Inserted - post ID is 232.
+2018-03-15T13:27:37+00:00 DEBUG > Finished importing post ID 232.
+2018-03-15T13:27:37+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Inserting BlanketCAKingDarkGrayDISC
+2018-03-15T13:27:37+00:00 DEBUG > Inserted - post ID is 233.
+2018-03-15T13:27:37+00:00 DEBUG > Finished importing post ID 233.
+2018-03-15T13:27:37+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Merging post ID 234.
+2018-03-15T13:27:37+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 234
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Twin/TwinXL W-68” x L-98" GARDENIA
+    [post_excerpt] => Twin/TwinXL - $79.95
+    [post_title] => BlanketTwin/TwinXLGardenia
+)
+
+2018-03-15T13:27:37+00:00 DEBUG > Finished merging post ID 234.
+2018-03-15T13:27:37+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Merging post ID 235.
+2018-03-15T13:27:37+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 235
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Full W-88” x L-98” GARDENIA
+    [post_excerpt] => Full - $79.95
+    [post_title] => BlanketFullGardenia
+)
+
+2018-03-15T13:27:37+00:00 DEBUG > Finished merging post ID 235.
+2018-03-15T13:27:37+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Merging post ID 236.
+2018-03-15T13:27:37+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 236
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Queen W-94” x L-108” GARDENIA
+    [post_excerpt] => Queen - $79.95
+    [post_title] => BlanketQueenGardenia
+)
+
+2018-03-15T13:27:37+00:00 DEBUG > Finished merging post ID 236.
+2018-03-15T13:27:37+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Merging post ID 237.
+2018-03-15T13:27:37+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 237
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket King W-112” x L-108” GARDENIA
+    [post_excerpt] => King - $89.95
+    [post_title] => BlanketKingGardenia
+)
+
+2018-03-15T13:27:37+00:00 DEBUG > Finished merging post ID 237.
+2018-03-15T13:27:37+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Merging post ID 238.
+2018-03-15T13:27:37+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 238
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket CA King W-108” x L-110” GARDENIA
+    [post_excerpt] => CA King - $89.95
+    [post_title] => BlanketCAKingGardenia
+)
+
+2018-03-15T13:27:37+00:00 DEBUG > Finished merging post ID 238.
+2018-03-15T13:27:37+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:37+00:00 DEBUG > Inserting BlanketTwin/TwinXLGardeniaDISC
+2018-03-15T13:27:37+00:00 DEBUG > Inserted - post ID is 239.
+2018-03-15T13:27:37+00:00 DEBUG > Finished importing post ID 239.
+2018-03-15T13:27:37+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:38+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:38+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:38+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:38+00:00 DEBUG ---
+2018-03-15T13:27:38+00:00 DEBUG Processing products.
+2018-03-15T13:27:38+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Inserting BlanketFullGardeniaDISC
+2018-03-15T13:27:38+00:00 DEBUG > Inserted - post ID is 240.
+2018-03-15T13:27:38+00:00 DEBUG > Finished importing post ID 240.
+2018-03-15T13:27:38+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Inserting BlanketQueenGardeniaDISC
+2018-03-15T13:27:38+00:00 DEBUG > Inserted - post ID is 241.
+2018-03-15T13:27:38+00:00 DEBUG > Finished importing post ID 241.
+2018-03-15T13:27:38+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Inserting BlanketKingGardeniaDISC
+2018-03-15T13:27:38+00:00 DEBUG > Inserted - post ID is 242.
+2018-03-15T13:27:38+00:00 DEBUG > Finished importing post ID 242.
+2018-03-15T13:27:38+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Inserting BlanketCAKingGardeniaDISC
+2018-03-15T13:27:38+00:00 DEBUG > Inserted - post ID is 243.
+2018-03-15T13:27:38+00:00 DEBUG > Finished importing post ID 243.
+2018-03-15T13:27:38+00:00 DEBUG > Row 5 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Merging post ID 244.
+2018-03-15T13:27:38+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 244
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Twin/TwinXL W-68” x L-98" SAGE GREEN
+    [post_excerpt] => Twin/TwinXL - $79.95
+    [post_title] => BlanketTwin/TwinXLSageGreen
+)
+
+2018-03-15T13:27:38+00:00 DEBUG > Finished merging post ID 244.
+2018-03-15T13:27:38+00:00 DEBUG > Row 6 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Merging post ID 245.
+2018-03-15T13:27:38+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 245
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Full W-88” x L-98” SAGE GREEN
+    [post_excerpt] => Full - $79.95
+    [post_title] => BlanketFullSageGreen
+)
+
+2018-03-15T13:27:38+00:00 DEBUG > Finished merging post ID 245.
+2018-03-15T13:27:38+00:00 DEBUG > Row 7 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Merging post ID 246.
+2018-03-15T13:27:38+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 246
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket Queen W-94” x L-108” SAGE GREEN
+    [post_excerpt] => Queen - $79.95
+    [post_title] => BlanketQueenSageGreen
+)
+
+2018-03-15T13:27:38+00:00 DEBUG > Finished merging post ID 246.
+2018-03-15T13:27:38+00:00 DEBUG > Row 8 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Merging post ID 247.
+2018-03-15T13:27:38+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 247
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket Blanket King W-112” x L-108” SAGE GREEN
+    [post_excerpt] => King - $89.95
+    [post_title] => BlanketKingSageGreen
+)
+
+2018-03-15T13:27:38+00:00 DEBUG > Finished merging post ID 247.
+2018-03-15T13:27:38+00:00 DEBUG > Row 9 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Merging post ID 248.
+2018-03-15T13:27:38+00:00 DEBUG > Merged post data: Array
+(
+    [ID] => 248
+    [post_content] => Effortless Patented Semi-fitted Plush Blanket CA King W-108” x L-110” SAGE GREEN
+    [post_excerpt] => CA King - $89.95
+    [post_title] => BlanketCAKingSageGreen
+)
+
+2018-03-15T13:27:38+00:00 DEBUG > Finished merging post ID 248.
+2018-03-15T13:27:38+00:00 DEBUG > Row 10 - preparing for merge.
+2018-03-15T13:27:38+00:00 DEBUG > Inserting BlanketTwin/TwinXLSageGreenDISC
+2018-03-15T13:27:38+00:00 DEBUG > Inserted - post ID is 249.
+2018-03-15T13:27:38+00:00 DEBUG > Finished importing post ID 249.
+2018-03-15T13:27:38+00:00 DEBUG Finished processing products.
+2018-03-15T13:27:39+00:00 DEBUG ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+2018-03-15T13:27:39+00:00 DEBUG Parsing products CSV.
+2018-03-15T13:27:39+00:00 DEBUG Finished parsing products CSV.
+2018-03-15T13:27:39+00:00 DEBUG ---
+2018-03-15T13:27:39+00:00 DEBUG Processing products.
+2018-03-15T13:27:39+00:00 DEBUG > Row 1 - preparing for merge.
+2018-03-15T13:27:39+00:00 DEBUG > Inserting BlanketFullSageGreenDISC
+2018-03-15T13:27:39+00:00 DEBUG > Inserted - post ID is 250.
+2018-03-15T13:27:39+00:00 DEBUG > Finished importing post ID 250.
+2018-03-15T13:27:39+00:00 DEBUG > Row 2 - preparing for merge.
+2018-03-15T13:27:39+00:00 DEBUG > Inserting BlanketQueenSageGreenDISC
+2018-03-15T13:27:39+00:00 DEBUG > Inserted - post ID is 251.
+2018-03-15T13:27:39+00:00 DEBUG > Finished importing post ID 251.
+2018-03-15T13:27:39+00:00 DEBUG > Row 3 - preparing for merge.
+2018-03-15T13:27:39+00:00 DEBUG > Inserting BlanketKingSageGreenDISC
+2018-03-15T13:27:39+00:00 DEBUG > Inserted - post ID is 252.
+2018-03-15T13:27:39+00:00 DEBUG > Finished importing post ID 252.
+2018-03-15T13:27:39+00:00 DEBUG > Row 4 - preparing for merge.
+2018-03-15T13:27:39+00:00 DEBUG > Inserting BlanketCAKingSageGreenDISC
+2018-03-15T13:27:39+00:00 DEBUG > Inserted - post ID is 253.
+2018-03-15T13:27:39+00:00 DEBUG > Finished importing post ID 253.
+2018-03-15T13:27:39+00:00 DEBUG Finished processing products.
