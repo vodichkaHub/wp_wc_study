@@ -1,0 +1,47 @@
+2018-03-17T09:48:37+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_contents_count() in D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\includes\ccl-price-calculator.php:13
+Stack trace:
+#0 D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\custom-cart-logic.php(46): Ccl_Price_Calculator::ccl_calculate()
+#1 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(286): ccl_get_total_with_discont('')
+#2 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\OSPanel\domains\wooComShop\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\templates\cart\cart.php(25): do_action('woocommerce_bef...')
+#5 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(87): wc_get_template('cart/cart.php')
+#
+
+2018-03-17T10:53:24+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::get_cart_content() in D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\includes\class-ccl-price-calculator.php:15
+Stack trace:
+#0 D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\custom-cart-logic.php(46): Ccl_Price_Calculator::ccl_calculate()
+#1 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(286): ccl_get_total_with_discont('')
+#2 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\OSPanel\domains\wooComShop\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\templates\cart\cart.php(25): do_action('woocommerce_bef...')
+#5 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(87): wc_get_template('cart/cart.p
+
+2018-03-17T12:11:41+00:00 CRITICAL Maximum execution time of 180 seconds exceeded
+
+2018-03-17T12:13:25+00:00 CRITICAL Maximum execution time of 180 seconds exceeded
+
+2018-03-17T12:29:29+00:00 CRITICAL Maximum execution time of 180 seconds exceeded
+
+2018-03-17T12:51:41+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::set_cart_total() in D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\includes\class-ccl-price-calculator.php:26
+Stack trace:
+#0 D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\custom-cart-logic.php(47): Ccl_Price_Calculator::calculate_discount(50)
+#1 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(286): ccl_get_total_with_discont('')
+#2 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\OSPanel\domains\wooComShop\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\templates\cart\cart.php(25): do_action('woocommerce_bef...')
+#5 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(87): wc_get_template('ca
+
+2018-03-17T12:51:59+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::set_total() in D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\includes\class-ccl-price-calculator.php:26
+Stack trace:
+#0 D:\OSPanel\domains\wooComShop\wp-content\plugins\custom-cart-logic\custom-cart-logic.php(47): Ccl_Price_Calculator::calculate_discount(50)
+#1 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(286): ccl_get_total_with_discont('')
+#2 D:\OSPanel\domains\wooComShop\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 D:\OSPanel\domains\wooComShop\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\templates\cart\cart.php(25): do_action('woocommerce_bef...')
+#5 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include('D:\\OSPanel\\doma...')
+#6 D:\OSPanel\domains\wooComShop\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(87): wc_get_template('cart/ca
+
