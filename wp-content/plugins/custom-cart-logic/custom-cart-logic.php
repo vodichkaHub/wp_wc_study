@@ -17,7 +17,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
      */
     register_activation_hook( __FILE__, 'ccl_on_activation');
     register_deactivation_hook( __FILE__, 'ccl_on_deactivation');
-    add_filter( 'woocommerce_before_cart', 'ccl_get_total_with_discont' );
+    add_filter( 'woocommerce_before_cart', 'ccl_calculate_discont' );
 
 
     /**
@@ -40,14 +40,16 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
         Ccl_Deactivator::ccl_deactivate();
     }
 
-
-    function ccl_get_total_with_discont ( $total )
+    /**
+     * Calculate discount
+     * @param [type] $total
+     * @return void
+     */
+    function ccl_calculate_discont ( $cart )
     {
         $discount = 50;
-        $total = Ccl_Price_Calculator::calculate_discount ( $discount );
-        // var_dump($total);
-        // exit();
+        $cart = Ccl_Price_Calculator::set_discount ();
 
-        return $total;
+        return $cart;
     }
 }
