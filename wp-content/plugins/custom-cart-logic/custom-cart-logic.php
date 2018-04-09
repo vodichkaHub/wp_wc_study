@@ -25,7 +25,6 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
      */
     function ccl_calculate_discont ( $cart )
     {
-        $discount = 50;
         $cart = Ccl_Price_Calculator::set_discount ();
 
         return $cart;

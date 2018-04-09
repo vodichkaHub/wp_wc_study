@@ -29,26 +29,6 @@ class Ccl_Price_Calculator
     }
 
     /**
-     * Gets prices all of products
-     * @param array $cart
-     * @return array $pricesArray || false
-     */
-    protected static function get_prices_array ( array $cart )
-    {
-        global $woocommerce;
-        $pricesArray = array();
-
-        if ( isset( $cart ) ) {
-            foreach ( $cart as $product ) {
-                array_push( $pricesArray, $product['line_subtotal'] );
-            }
-            return $pricesArray;
-        } else {
-            return false;
-        }
-    }
-
-    /**
      * Finds names of cart items which should has a discount
      * @param array $cart
      * @return array $names
@@ -61,11 +41,11 @@ class Ccl_Price_Calculator
         $j = 0;
         $props = array();
         foreach ( $cart as $product ) {
-            while ( $j <= $_SESSION['lastCartCount'] ) {
+            while ( $j <= $_SESSION['lastCartCount'] ) { // loop skips all cart records which have already been calculated
                 $j++;
                 continue;
             }
-            if ( $i % 2 == 0 ) {
+            if ( $i % 2 == 0 ) { // every second product is written to the temprary var $temp for further comprasion with every first
                 $temp = $product;
                 $i++;
                 continue;
@@ -73,13 +53,13 @@ class Ccl_Price_Calculator
                 $productSingleItem = $product['data']->get_data();
                 $tempSingleItem = $temp['data']->get_data();
                 if ( $productSingleItem['price'] > $tempSingleItem['price'] ) {
-                    array_push( $props, $tempSingleItem['name'] );
-                    array_push( $props, $temp['key'] );
+                    $props['name'] = $tempSingleItem['name'];
+                    $props['key'] = $temp['key'];
                     array_push( $names, $props );
                     $props = array();
                 } else {
-                    array_push( $props, $productSingleItem['name'] );
-                    array_push( $props, $product['key'] );
+                    $props['name'] = $productSingleItem['name'];
+                    $props['key'] = $product['key'];
                     array_push( $names, $props );
                     $props = array();
                 }
@@ -91,7 +71,7 @@ class Ccl_Price_Calculator
     }
 
     /**
-     * Reurn array of names end on "DISC" (discount products)
+     * Returns array of names ending in "DISC" (discount products)
      * @return array
      */
     protected static function get_disc_products () {
@@ -102,11 +82,11 @@ class Ccl_Price_Calculator
             WHERE $wpdb->posts.post_name like '%DISC'
         ";
 
-        return $wpdb->get_results( $query, ARRAY_N );
+        return $wpdb->get_results( $query, ARRAY_A );
     }
 
     /**
-     *
+     * Search names from $shouldHaveDisc array with "DISC" postfix inside the $discProducts array. Then swap it
      * @param array $shouldHaveDisc
      * @param array $discProducts
      * @return void
@@ -117,30 +97,13 @@ class Ccl_Price_Calculator
 
         foreach ( $shouldHaveDisc as $product ) {
             foreach ( $discProducts as $discProduct ) {
-                $nameWithDiscPostfix = $product['0'] . 'DISC';
-                if ( $nameWithDiscPostfix == $discProduct['1'] ) {
-                    $woocommerce->cart->remove_cart_item( $product['1'] );
-                    $item = self::select_by_id( $discProduct['0'] );
-                    $t = $woocommerce->cart->add_to_cart( $item['0']->ID );
+                $nameWithDiscPostfix = $product['name'] . 'DISC';
+                if ( $nameWithDiscPostfix == $discProduct['post_title'] ) {
+                    $woocommerce->cart->remove_cart_item( $product['key'] );
+                    $woocommerce->cart->add_to_cart( $discProduct['ID'] );
                 }
             }
         }
-    }
-
-    /**
-     * DB selection
-     * @param int $id
-     * @return OBJECT
-     */
-    protected static function select_by_id ($id) {
-        global $wpdb;
-        $query = "
-            SELECT $wpdb->posts.*
-            FROM $wpdb->posts
-            WHERE $wpdb->posts.ID = $id
-        ";
-
-        return $wpdb->get_results( $query, OBJECT );
     }
 
     /**
@@ -150,7 +113,7 @@ class Ccl_Price_Calculator
     protected static function set_new_disc_products ( $cart )
     {
         $shouldHaveDisc = self::find_product_for_discount( $cart );
-        $discProducts = self::get_disc_products();
+        $discProducts = self::get_disc_products(); // all DISC products from DB
         self::swap_products( $shouldHaveDisc, $discProducts );
     }
 }
