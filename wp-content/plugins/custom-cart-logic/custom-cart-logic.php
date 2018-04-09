@@ -1,6 +1,9 @@
 <?php
 /**
  * Plugin Name: CUSTOM CART LOGIC
+ * Decription: Adds custom price calculating logic
+ * Version: 20180905
+ * Author: v.adinyaev@inostudio.com
  */
 
 if ( ! defined( 'WPINC' ) ) {
