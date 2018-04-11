@@ -29,7 +29,11 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
         $cart = Ccl_Price_Calculator::set_discount ();
     }
 
-    function ccl_set_cart_count_to_the_session () {
+    /**
+     * Puts count of cart items to the session. this is necessary in order to skip all items which have already been calculated with discount
+     * @return void
+     */
+    function ccl_put_cart_items_count_to_the_session () {
         global $woocommerce;
         $count = 0;
         $cart = $woocommerce->cart->get_cart_contents();
